@@ -38,7 +38,7 @@
 - She comments on [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]]' [[Magic Items not owned/Shield of Garguth\|Shield of Garguth]] and that there is a devil in there.
 	- He is locked away to not corrupt more souls.
 - We hand her the [[Magic Items not owned/puzzle box 1\|puzzle box 1]] and she loredumps
-	- [[Untitled/The Creed Absolute\|The Creed Absolute]] 
+	- [[The Creed Absolute\|The Creed Absolute]] 
 		- A way to potentially bind the city to his deal. 
 		- All the souls of [[Places/Eltaurel/Elturel\|Elturel]] are bound to Zariel
 - She opens the box and from it a contract 

@@ -15,7 +15,7 @@
 	- Besides the dead three there are other gods of death
 		- He is above the dead three
 - Detect thaughts on [[People and Orgs/PCs/Lane Wayne\|Lane]]
-	- Surface: Worry, [[People and Orgs/PCs/Eamonn\|Eamonn]] is gonna try and kill me
+	- Surface: Worry, [[People and Orgs/PCs/Eamonn\|People and Orgs/PCs/Eamonn]] is gonna try and kill me
 - [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]] comes up to me visibly having cried and says "He had to die right? It's what Rodg would have wanted right?"
 - [[People and Orgs/PCs/Bras\|Bras]] sits me and Kyma down, 
 	- I go first "Do I pick a card?/ no the card picks you."
