@@ -27,3 +27,12 @@
 [[Notes/22 NOT EVERY SECRET WEIGHS THE SAME\|22 NOT EVERY SECRET WEIGHS THE SAME]]
 [[Notes/23 Evil Is a Seduction\|23 Evil Is a Seduction]]
 [[Notes/24 Nobody Cares if You Die in Hell\|24 Nobody Cares if You Die in Hell]]
+
+
+
+# Inventory
+## [[Inventory/Party Inventory\|Party Inventory]]
+
+## Magic Items
+[[Inventory/Magical Items/Scrolls\|Scrolls]]
+[[Inventory/Magical Items/Potions\|Potions]]
