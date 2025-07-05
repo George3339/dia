@@ -32,7 +32,7 @@
 - Speak with dead
 	- Who were you?
 		- My name was [[Victor\|Victor]]
-	- What is your relation to [[Kelemvor\|Kelemvor]]?
+	- What is your relation to [[People and Orgs/Deities and Beings of Power/Kelemvor\|Kelemvor]]?
 		- None whatsoever
 	- Who did you serve in life
 		- I serve the archduchess [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]

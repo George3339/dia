@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20250704003844.png](/img/user/Pasted%20image%2020250704003844.png)
+![Pasted image 20250704003844.png](/img/user/z%20Photos/Pasted%20image%2020250704003844.png)
 # Bio/Info
 
 

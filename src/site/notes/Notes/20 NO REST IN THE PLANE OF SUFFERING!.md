@@ -31,9 +31,9 @@ The War machine rolls up and near the front we see a goblin with some advanced a
 # Haruman's Hill
 - I eat another magic pear
 	- For the next two hours I can cast detect thaughts at will
-		- I cast it on Layne
+		- I cast it on Lane
 			- Surface: Hatred and rage for me. A pleasure and desire to fuck with [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]]
-	- Deeper: I have a love of fucking with Donkus, it is now a passion. You feel an unbridled rage for me because i tried to kill him 4 times. I feel a 5.5/10 worry associated to an image of a skeleton hand holding a scale, I sense that Layne is looking for some sort of balance. At one point or another. I also get a flash of a wizard's hat. 
+	- Deeper: I have a love of fucking with Donkus, it is now a passion. You feel an unbridled rage for me because I tried to kill him 4 times. I feel a 5.5/10 worry associated to an image of a skeleton hand holding a scale, I sense that Lane is looking for some sort of balance. At one point or another. I also get a flash of a wizard's hat. 
 
 Iron wrought gates
 - There are knights impaled on the iron trees
@@ -59,5 +59,5 @@ The night at the top of the hill is awake, being eaten live by the Sturges that 
 - The Narzukan pears as we take him off the tree
 	- Donkus takes a step back wounded. In that moment we hear a call for help
 		- "GUYS" we see Lulu is being dragged by a wasp like creature. Not too far off we see a large hive like structure tied to the plane by devlish chains. Angelic figures stuck and strung to the papery flesh of the masife wasps nest.
-	- As [[People and Orgs/PCs/Lane Wayne\|Lane Wayne]] hits the Narzukan a small iron tree spouts at Layne's feet. His name is carved in the sprout "Crime assaulting an officer". 
+	- As [[People and Orgs/PCs/Lane Wayne\|Lane Wayne]] hits the Narzukan a small iron tree spouts at Lane's feet. His name is carved in the sprout "Crime assaulting an officer". 
 

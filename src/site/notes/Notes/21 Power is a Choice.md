@@ -28,7 +28,7 @@
 	- There are like two other places that could be leads. 
 		- One was a place where demons were spawning. 
 		- Another was a place where demons were being destroyed
-- [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] asks Layne if he's met his father. 
+- [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] asks Lane if he's met his father. 
 	- When we saw him I had seen him before. I had a vision. I had seen him in dreams
 	- Did you have a vision of him dying? 
 	- I had seen him in a dream, I wish I could explain everything but I can't. And I need you to be okay with that for a while. I can't talk about this right now. 

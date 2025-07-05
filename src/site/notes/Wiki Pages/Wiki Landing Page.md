@@ -2,7 +2,13 @@
 {"dg-publish":true,"permalink":"/wiki-pages/wiki-landing-page/","tags":["gardenEntry"]}
 ---
 
-
+# Characters 
+- [[People and Orgs/PCs/Eamonn\|Eamonn]]
+- [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]]
+- [[People and Orgs/PCs/Lane Wayne\|Lane]]
+- [[People and Orgs/PCs/Bras\|Bras]]
+- [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]]
+- [[People and Orgs/People/Lulu\|Lulu]]
 # Session Notes
 [[Notes/1 First Few Sessions\|1 First Few Sessions]]
 [[Notes/2 What do we Say to the God of Death\|2 What do we Say to the God of Death]]
@@ -28,9 +34,6 @@
 [[Notes/22 NOT EVERY SECRET WEIGHS THE SAME\|22 NOT EVERY SECRET WEIGHS THE SAME]]
 [[Notes/23 Evil Is a Seduction\|23 Evil Is a Seduction]]
 [[Notes/24 Nobody Cares if You Die in Hell\|24 Nobody Cares if You Die in Hell]]
-
-
-
 # Inventory
 ## [[Inventory/Party Inventory\|Party Inventory]]
 
@@ -38,6 +41,3 @@
 [[Inventory/Magical Items/Scrolls\|Scrolls]]
 [[Inventory/Magical Items/Potions\|Potions]]
 
-# Characters 
-- [[People and Orgs/PCs/Eamonn\|Eamonn]]
-- 

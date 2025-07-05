@@ -6,13 +6,13 @@
 An angel, a devil, a being of divine strength above the battlefield
 
 # Other Characters
-Donkus
+[[People and Orgs/PCs/Donkus Ironbrew\|Donkus]]
 
-Brass
+[[People and Orgs/PCs/Bras\|Bras]]
 
-Kyma
+[[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]]
 
-Lain
+[[People and Orgs/PCs/Lane Wayne\|Lane]]
 
 # Arriving in Baldur’s Gate
 [[People and Orgs/People/Capitan Zoge\|Capitan Zoge]] a tall man with an eyepatch

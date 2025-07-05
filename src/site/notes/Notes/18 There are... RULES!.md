@@ -20,7 +20,7 @@ Six spine devils surround us, human warriors retreat into a portal.
 The creatures we just killed kneel before us and swear they will serve us if we spare them
 
 ## A Vast Barren Landscape
-We wander trough. Black sludge spurts from the ground, we feel loss. Layne gets stuck.
+We wander trough. Black sludge spurts from the ground, we feel loss. [[People and Orgs/PCs/Lane Wayne\|Lane]] gets stuck.
 
 ## The Last Dream
 [[People and Orgs/People/Lulu\|Lulu]] is resting on a black cushion at the centre of an inky void. A beam of light shines down on her. A spyglass sits on a tripod. Lulu wakes us and sees it. She looks into it an looks back and cries out! "The sword the sword I know where it is!!"

@@ -43,7 +43,7 @@
 	- It has a gem in it's eye
 		- It's a yellow elemental gem
 		- There are bracers of defence 
-- In an adjacent room Layne finds a lamp that looks like a Genie lamp
+- In an adjacent room Lane finds a lamp that looks like a Genie lamp
 	- I threaten his life to hand it over
 		- After a heated discussion he reveals it and it is not the one I'm looking for
 		- I walk off

@@ -14,14 +14,14 @@ Where we left off... We rescued the Grand Duke from death and defeat at the hand
 	- "Whatever happens don't let my concentration break"
 	- Feria places the sword on top of the Grand Duke and begins a prayer to [[People and Orgs/Deities and Beings of Power/Torm\|Torm]]
 	- Magic begins to swell around the altar
-	- A few minutes into the ritual, she says 'Torm the true cleanse this helment, Torm the true show us your power and clense this helmet of demonic power.'
+	- A few minutes into the ritual, she says 'Torm the true cleanse this helmet, Torm the true show us your power and cleanse this helmet of demonic power.'
 		- As she does, the grand duke struggles and writhes, he briefly escapes our grasp. 
 		- Two lights burst out of the helmet and swirl around him. 
 			- The two will 'o whisps die
 - The ritual is a success.
 	- There was a moment the helmet was void of magic but then it came back
 	- The Duke wakes up
-		- "I was having like a dream. There were people fighting for my consciousness. I saw things. There was a woman in armour, angelic, with a long sword. Next to her there was some sort of flying elephant. There was also a big demon, threatening to kill and devour the woman. Something that looked like Lulu made a trumpet sound and the demon was flung away. And then a large palace erupted around a sword of some kind, and the scab, flesh began to engulfed the palace and the elephant flew off. The Demon was engulfed with the palace, and then. There were two bird people in weird armour, black birds. Strange machines, some sort of big metal tool."
+		- "I was having like a dream. There were people fighting for my consciousness. I saw things. There was a woman in armour, angelic, with a long sword. Next to her there was some sort of flying elephant. There was also a big demon, threatening to kill and devour the woman. Something that looked like [[People and Orgs/People/Lulu\|Lulu]] made a trumpet sound and the demon was flung away. And then a large palace erupted around a sword of some kind, and the scab, flesh began to engulfed the palace and the elephant flew off. The Demon was engulfed with the palace, and then. There were two bird people in weird armour, black birds. Strange machines, some sort of big metal tool."
 			- [[People and Orgs/People/Lulu\|Lulu]] reacts. She remembers the two bird people, they were her friends. "There was a fort. The names of the bird people were [[People and Orgs/People/Chukka\|Chukka]] and [[People and Orgs/People/Clonka\|Clonka]]." "There's the fort! They helped me get out. [[Places/Fort Knucklebone\|Fort Knucklebone]] is the name of the fort."
 - Lulu asks if we are friends and when we answer yes we are all blessed
 
