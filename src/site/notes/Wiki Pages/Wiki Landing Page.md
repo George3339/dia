@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/wiki-pages/wiki-landing-page/","tags":["gardenEntry"]}
 ---
 
+[[Notes/🧵 Threads\|🧵 Threads]]
 # Characters 
 - [[People and Orgs/PCs/Eamonn\|Eamonn]]
 - [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]]
