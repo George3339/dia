@@ -35,6 +35,7 @@
 [[Notes/22 NOT EVERY SECRET WEIGHS THE SAME\|22 NOT EVERY SECRET WEIGHS THE SAME]]
 [[Notes/23 Evil Is a Seduction\|23 Evil Is a Seduction]]
 [[Notes/24 Nobody Cares if You Die in Hell\|24 Nobody Cares if You Die in Hell]]
+[[Notes/25 To Be Good In Hell Is To Be Insane\|25 To Be Good In Hell Is To Be Insane]]
 # Inventory
 ## [[Inventory/Party Inventory\|Party Inventory]]
 
