@@ -35,6 +35,7 @@
 - 1 saphire worth 300 GP
 - Scroll of Remove Curse 
 - A vial of water from the [[Places/River Styx\|River Styx]]
+- 4 bag of beans eggs
 
 # Miscellaneous 
 - 2 Vials of Holy Water

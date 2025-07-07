@@ -14,15 +14,18 @@
 	- It's a very obscure god of death
 	- Besides the dead three there are other gods of death
 		- He is above the dead three
-- Detect thaughts on [[People and Orgs/PCs/Lane Wayne\|Lane]]
+- Detect thoughts on [[People and Orgs/PCs/Lane Wayne\|Lane]]
 	- Surface: Worry, [[People and Orgs/PCs/Eamonn\|People and Orgs/PCs/Eamonn]] is gonna try and kill me
 - [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]] comes up to me visibly having cried and says "He had to die right? It's what Rodg would have wanted right?"
-- [[People and Orgs/PCs/Bras\|Bras]] sits me and Kyma down, 
+## Fortune
+#Tarot 
+- [[People and Orgs/PCs/Bras\|Bras]] sits me and [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] down, 
 	- I go first "Do I pick a card?/ no the card picks you."
 		- He flips over a card, the mirage. This can mean upheaval or broken pride. 
 	- Kyma picks the helm, but reversed. This one also maybe is late but means losing control or clinging to it too strongly, or even pure bad luck. 
 	- I get another card. The drunk, reversed. Could represent carelessness or apathy, potentially about our situation or relationships
 	- [[People and Orgs/People/Lulu\|Lulu]] asks to have her card read. The sails. Direction, control, or even willpower. 
+## New Locations
 - [[People and Orgs/People/Lulu\|Lulu]] adresses all of us
 	- I was confident about the hill because I was looking at it and remebered it to be very important for some reason. 
 	- There are like two other places that could be leads. 
