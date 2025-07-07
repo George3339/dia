@@ -10,7 +10,7 @@
 
 # Resting
 - I try to cast speak with dead on the ashes but it doesn't work
-- I minor illusion Kelemvor's symbol
+- I minor illusion [[People and Orgs/Deities and Beings of Power/Kelemvor\|Kelemvor]]'s symbol
 	- It's a very obscure god of death
 	- Besides the dead three there are other gods of death
 		- He is above the dead three
