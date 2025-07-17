@@ -16,10 +16,8 @@
 - Red forest might be where demons spawn
 # On the Road Again
 - We begin making our way to the zapper
-- [[People and Orgs/PCs/Lane Wayne\|Lane]] approaches me
-{ #9cd47d}
-
-	- If [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] talks to his father a contract will be completed and we will be marked for death
+### Lane Approaches Me
+-  If [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] talks to his father a contract will be completed and we will be marked for death 
 	- He is only telling Me and [[People and Orgs/PCs/Bras\|Bras]]
 - Looking around I notice far in the back distance a small war machine, probably a motorcycle 
 ## 3 War machines

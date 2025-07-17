@@ -64,11 +64,13 @@ We bring the Duke to the room with the big table
 	- Equals 100 gp of any spell component 
 - The druid proposes a ritual of returning 
 	- Needs an altar, a symbol of Torm, and an incantation
+## Sending
 - As the short rest ends [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] gets a sending from his father
 { #f0d024}
 
 	- Father: Limit, sending uses. They're listening. Demon deals work differently. Stay away from me at all costs. No matter what.
 	- Kyma: I'll weigh my options to see how heavy the cost. Please try to stay safe. I will too. 
+## Return to the Crypt
 - As we return to the crypt an imp fles throuh the window with a message
 	- "Is there a [[People and Orgs/PCs/Lane Wayne\|Lane Wayne]] here? I have a message from the God of Murder. He needs to inform you that he hopes you will reconsider and he's willing to compromise. All you have to do is renounce your current deity and call out to the heavens."
 		- I kill him

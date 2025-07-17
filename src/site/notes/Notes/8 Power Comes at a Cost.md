@@ -30,6 +30,8 @@
 ### The Hearth
 - Insight check on [[People and Orgs/People/Avir\|Avir]], he looks like he came over with something to achieve and he leaves seeming like he has succeeded. 
 ## Candlkeep
+
+### Sending
 - [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] Sends and receives a message from his father
 { #40f79e}
 
