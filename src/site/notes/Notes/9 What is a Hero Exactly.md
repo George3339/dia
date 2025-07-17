@@ -15,8 +15,10 @@
 - [[People and Orgs/People/Traxagor\|Traxagor]] is hosting someone names [[People and Orgs/People/Lulu\|Lulu]] who has a history of fighting devils
 # The Flight of the Griffons
 - There are a fleet of griffons waiting to transport us to Traxigor
-- I am hesitant about flying, but we each get one for ourselves (though Bras and Donkus are flying together)
+- I am hesitant about flying, but we each get one for ourselves (though Bras and [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]] are flying together)
 - Why did Bras steal
+{ #f07add}
+
 	- It was related to his field of study at the time
 	- He had interest in Water genasi and cults relating to the sea
 	- He did so with a companion, she said that she would help with his research, but they got caught because she drew attention. 

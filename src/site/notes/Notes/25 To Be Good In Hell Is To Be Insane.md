@@ -68,3 +68,17 @@ The lockup, upright. Finding meaning, or perhaps the middle path instead of the 
 The mirage reveresed. Disaster avoided disaster dellayed, or perhaps with the world revesed, fear of suffering
 The mirage reveresed, 
 The three of these, perhaps fining meaning in the lack fo closure that you might end up getting. And your fear of that emotional turmoil. 
+
+# We set out
+#Dragon 
+As we set out we see a huge white dragon fly over us. It stabilizes 105 feet above us "Allow me to introduce myself. I am [[Obatala\|Obatala]] and you have something of mine. I am unsure of where you carry it but i am certain it is within your possession. Should you wish to spare all your lives I will be requesting that you relinquish it to me in a calm and cooperating manner. Because I have no problem evicerating all of you where you sit."
+
+"What stone"
+"The dark touched one"
+I stop the war machine and hand the stone to him
+"More boring than I anticipated but thank you for your cooperation"
+ DT
+ Surface level
+ "The worms are more frightened than I thought, this will be easy. We are one step closer my queen"
+
+# The bone brambles

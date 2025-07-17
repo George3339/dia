@@ -64,18 +64,20 @@ We bring the Duke to the room with the big table
 	- Equals 100 gp of any spell component 
 - The druid proposes a ritual of returning 
 	- Needs an altar, a symbol of Torm, and an incantation
-- As the short rest ends Kyma gets a sending from his father
-	- Limit, sending uses. They're listening. Demon deals work differently. Stay away from me at all costs. No matter what.
-		- I'll weigh my options to see how heavy the cost. Please try to stay safe. I will too. 
+- As the short rest ends [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] gets a sending from his father
+{ #f0d024}
+
+	- Father: Limit, sending uses. They're listening. Demon deals work differently. Stay away from me at all costs. No matter what.
+	- Kyma: I'll weigh my options to see how heavy the cost. Please try to stay safe. I will too. 
 - As we return to the crypt an imp fles throuh the window with a message
 	- "Is there a [[People and Orgs/PCs/Lane Wayne\|Lane Wayne]] here? I have a message from the God of Murder. He needs to inform you that he hopes you will reconsider and he's willing to compromise. All you have to do is renounce your current deity and call out to the heavens."
 		- I kill him
 			- Speak with dead
-				- Who is Lane Wane currently worshiping?
+				- Who is [[People and Orgs/PCs/Lane Wayne\|Lane]] currently worshiping?
 					- I don't know. That's what Bhall told me
 				- What's the new offer?
 					- I don't know what the offer is. It's for Bhall for Lane to become Bhaal's chosen. Something about a limit
-						- 17 Religion: There is Bhaal's chose, Bhaal's spawn. It's partly what he's talking about, but this seems like something new. The part about a 'limit' makes no sense. If a god wants something they can usually do it. For a god to be described s having a limit is odd.
+						- 17 Religion: There is Bhaal's chosen, Bhaal's spawn. It's partly what he's talking about, but this seems like something new. The part about a 'limit' makes no sense. If a god wants something they can usually do it. For a god to be described s having a limit is odd.
 				- What is Bhaal interested in Lane for?
 					- The sky shoots with lightning. "He said lane is an apostle and he wants him. But he was taken when Lane rejected Bhaal."
 				- Where in the Avernus did you come from?

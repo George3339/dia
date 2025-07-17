@@ -4,7 +4,7 @@
 
 
 # Owned by Me
-
+- Spell scroll of Life transference
 
 # Owned by Others
 - Scroll of Revivify 

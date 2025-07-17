@@ -31,11 +31,14 @@
 # Valuables
 - Vial of poison (poison shot)
 - [[Inventory/Magical Items/Yellow Elemental Gem\|Yellow Elemental Gem]]
-- 1 bottle of Demon Ichor 
+- 2 bottles of Demon Ichor 
 - 1 saphire worth 300 GP
 - Scroll of Remove Curse 
 - A vial of water from the [[Places/River Styx\|River Styx]]
 - 4 bag of beans eggs
+- 2 Vials of acid
+- A small ring (Ring of protection)
+- A bag that looks similar to a bag of holding
 
 # Miscellaneous 
 - 2 Vials of Holy Water
@@ -52,4 +55,6 @@
 - Dark shard emanating a magical aura
 - Abishai Longsword
 - Skeleton Minotaur Horn
+
+
 

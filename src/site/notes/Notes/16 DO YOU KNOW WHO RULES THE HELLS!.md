@@ -24,7 +24,9 @@
 - Near the base of the chain there is a battle between demons and devils
 	- There's a larger creature, devil, commanding devils
 		- [[People and Orgs/People/Lulu\|Lulu]]: That looks like [[People and Orgs/Deities and Beings of Power/Lucile\|Lucile]], one of Zariel's war-chiefs
-- As we walk we see Kyma's father in the sky on a flying carpet
+- As we walk we see [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]]'s father in the sky on a flying carpet
+{ #43e008}
+
 - As we continue to walk we see a man in the distance walking to a flying fortress
 - We fight some demons on our way
 	- They hold a burlap sack, inside it is a dwarf
