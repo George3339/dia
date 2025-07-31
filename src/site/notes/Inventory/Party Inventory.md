@@ -7,9 +7,9 @@
 - Enchanted [[People and Orgs/Orgs/Baldur's Gate/Flaming Fist\|Flaming Fist]] beacon that lets them contact us if we are in the city
 - [[Magic Items not owned/Cool Helmet\|Cool Helmet]] (Donkus) +1 to con save
 - [[Magic Items not owned/Cloak of Elvenkind\|Cloak of Elvenkind]] (Lane)
-- +1 [[Magic Items not owned/Shortsword of Wounding\|Shortsword of Wounding]] (Bras)
+- +1 [[Magic Items not owned/Shortsword of Wounding\|Shortsword of Wounding]] (Lane)
 - Secret Juice (Lane)
-- [[Magic Items not owned/Ring of Invisibility\|Ring of Invisibility]]  (Donkus)
+- [[Magic Items not owned/Ring of Invisibility\|Ring of Invisibility]]  (Bras)
 - [[Magic Items not owned/Bracers of Defence\|Bracers of Defence]] (Kyma)
 - 2 Soul Coins (Lane)
 - 2 Soul Coins (Kyma)

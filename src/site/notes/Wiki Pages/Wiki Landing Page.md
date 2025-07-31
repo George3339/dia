@@ -36,7 +36,7 @@
 [[Notes/23 Evil Is a Seduction\|23 Evil Is a Seduction]]
 [[Notes/24 Nobody Cares if You Die in Hell\|24 Nobody Cares if You Die in Hell]]
 [[Notes/25 To Be Good In Hell Is To Be Insane\|25 To Be Good In Hell Is To Be Insane]]
-[[Notes/26 The Easiest Lie is When You're Expecting it 26\|26 The Easiest Lie is When You're Expecting it 26]]
+[[Notes/26 The Easiest Lie is When You're Expecting it\|26 The Easiest Lie is When You're Expecting it]]
 # Inventory
 ## [[Inventory/Party Inventory\|Party Inventory]]
 

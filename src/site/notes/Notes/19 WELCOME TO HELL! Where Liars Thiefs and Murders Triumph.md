@@ -48,7 +48,7 @@ We arrive at the river styx. It's a flowing murky river.
 		- My gold, they. It is untainted and safe
 	- Who killed you?
 		- This guy turned red and devils descended onto the city, I couldn't run, I could only protect what was rightfully mine.
-	- How do we get over the [[Places/River Styx\|River Styx]]
+	- How do we get over the [[Places/Avernus/River Styx\|River Styx]]
 		- Swim
 	- Who were you?
 		- My name was Franklin Tedsworth. I was the pension manager for the upper class wihin Eltaurel

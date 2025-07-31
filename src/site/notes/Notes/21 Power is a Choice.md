@@ -6,7 +6,7 @@
 
 - [[People and Orgs/People/Jander Sunstar\|Jander Sunstar]] is killed by  lightning bolt from [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]]' wand of wonder
 	- His last words are "I'm never leaving this place"
-- We run from [[Places/Haruman's Hill\|Haruman's Hill]]
+- We run from [[Places/Avernus/Haruman's Hill\|Haruman's Hill]]
 
 # Resting
 - I try to cast speak with dead on the ashes but it doesn't work
@@ -36,13 +36,13 @@
 	- Did you have a vision of him dying? 
 	- I had seen him in a dream, I wish I could explain everything but I can't. And I need you to be okay with that for a while. I can't talk about this right now. 
 		- I'm giving you a few days to process this 
-- Some imps aproach the hut. I make it look like a rock. They leave when the see the [[Places/Wandering Emporium\|Wandering Emporium]]
+- Some imps aproach the hut. I make it look like a rock. They leave when the see the [[Places/Avernus/Wandering Emporium\|Wandering Emporium]]
 ## Dream
 - I'm thinking about the clay mouth. I'm working with the clay. 
 - The mouth goes RUS VISK ROTUND, SHARP SOOUD. Then in makes intensifying grunting sounds says "well done" and then smiles
 
 ## Wake up
 - Remind Denver to tell me something before next session. 
-- Not too far in the distance we see a stationary caravan of war machines, some tents and tables. And a big sign that says [[Places/Wandering Emporium\|Wandering Emporium]], underneath that it says no killing of fighting, enforced by killing and fighting.
+- Not too far in the distance we see a stationary caravan of war machines, some tents and tables. And a big sign that says [[Places/Avernus/Wandering Emporium\|Wandering Emporium]], underneath that it says no killing of fighting, enforced by killing and fighting.
 - In the emporium we see a man greet us. "Welcome first time customers. I am your humble host [[People and Orgs/People/Mahadi\|Mahadi]]. Make yourselves comfortable. This is a neural territory for the war."
 - We stroll into the wandering emporium and Bras sees someone he knows she approaches him in demonic form "Baby!!"

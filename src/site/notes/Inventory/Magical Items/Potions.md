@@ -3,7 +3,7 @@
 ---
 
 
-- 2 Greater Potion of healing 
+- 1 Greater Potion of healing 
 - 1 Potion of Healing
 - Potion of Fire Resistance 
 - 1 Potion of Speed

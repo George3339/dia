@@ -24,7 +24,7 @@
 - [[People and Orgs/People/Reya\|Reya]] talks about she is one of the [[People and Orgs/Orgs/Hellriders\|Hellriders]]
 	- The hellriders were founded to protect [[Places/Eltaurel/Elturel\|Elturel]] 
 	- An angel flew into Eltaurel, the angel [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]
-		- She decried that she would lead the [[People and Orgs/Orgs/Hellriders\|Hellriders]] into [[Places/Avernus\|Avernus]]
+		- She decried that she would lead the [[People and Orgs/Orgs/Hellriders\|Hellriders]] into [[Places/Avernus/Avernus\|Avernus]]
 			- Zariel was defeated and she later fell and became a devil
 - We wake up and [[People and Orgs/People/Reya\|Reya]] is dead with [[People and Orgs/PCs/Lane Wayne\|Lane]] standing over her with bloodied hands
 	- 

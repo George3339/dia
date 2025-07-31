@@ -72,7 +72,7 @@ A cult worshipping the evil dragon goddess [[People and Orgs/Deities and Beings 
 
 </div></div>
 
-We have seen a dragon on our way to [[Places/Candlekeep\|Candlekeep]] as well as in [[Places/Avernus\|Avernus]]. The dragon on out way to Candlekeep was a white dragon with a broken metal shackle around it's neck. 
+We have seen a dragon on our way to [[Places/Candlekeep\|Candlekeep]] as well as in [[Places/Avernus/Avernus\|Avernus]]. The dragon on out way to Candlekeep was a white dragon with a broken metal shackle around it's neck. 
 We have been told that there are some dragons in the skull like thing on the top left of our map by [[People and Orgs/People/Paladin Danse\|Paladin Danse]].
 
 ## The Lamp and Guts
@@ -81,7 +81,7 @@ We have been told that there are some dragons in the skull like thing on the top
 
 
 
-Man in [[Places/Eltaurel/Elturel\|Elturel]] who was sold the genie lamp.  He has short spiky black hair, and a large sword and had one eye closed he is human. He is now wanted all throughout [[Places/Avernus\|Avernus]] by order of Zariel. 
+Man in [[Places/Eltaurel/Elturel\|Elturel]] who was sold the genie lamp.  He has short spiky black hair, and a large sword and had one eye closed he is human. He is now wanted all throughout [[Places/Avernus/Avernus\|Avernus]] by order of Zariel. 
 
 Acording to [[People and Orgs/People/Cronk Srublife\|Cronk Srublife]] he wanted the lamp for magical puposes
 

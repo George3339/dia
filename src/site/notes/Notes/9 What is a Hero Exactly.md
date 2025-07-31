@@ -11,7 +11,7 @@
 	 - [[People and Orgs/People/Avir\|Avir]] is looking for him
 - We meet Avir and he magically marks Bras 
 	- Avir casts detect thoughts on Kyma
-- She hands us a map of [[Places/Avernus\|Avernus]]
+- She hands us a map of [[Places/Avernus/Avernus\|Avernus]]
 - [[People and Orgs/People/Traxagor\|Traxagor]] is hosting someone names [[People and Orgs/People/Lulu\|Lulu]] who has a history of fighting devils
 # The Flight of the Griffons
 - There are a fleet of griffons waiting to transport us to Traxigor
@@ -28,7 +28,7 @@
 - An otter ([[People and Orgs/People/Traxigor\|Traxigor]] in this form) invites us in
 - Lulu is a flying elephant 
 - Kyma's father was teleported out of here
-	- He mentioned his regrets about [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] needing to go to [[Places/Avernus\|Avernus]]
+	- He mentioned his regrets about [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] needing to go to [[Places/Avernus/Avernus\|Avernus]]
 	- He also mentioned that he knows that Kyma needs to go to Avurnus
 	- Kyma is given a pair of gloves from her father
 - Lulu 
@@ -48,7 +48,7 @@
 	- You'll probably want to go to the big building, the high hall, if Ravenguard is still there find him
 	- He casts Plane Shift 
 ### A Shift and A Jump
-We immediately feel the heat of the air in [[Places/Avernus\|Avernus]] as we appear 100 feet above [[Places/Eltaurel/Elturel\|Elturel]]. [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] casts feather fall and slows our fall and we float down to the streets of Eltaurel.
+We immediately feel the heat of the air in [[Places/Avernus/Avernus\|Avernus]] as we appear 100 feet above [[Places/Eltaurel/Elturel\|Elturel]]. [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] casts feather fall and slows our fall and we float down to the streets of Eltaurel.
 - We look around and see swarms of imps flying around massive flying war machines. The city below us has 8 massive pitons jammed into each end of the city that is bound by chains bound to the surface of Avernus. The city is split in two. A mote of lava encircles the east side of the city.
 - A sphere of darkness shoots the city, perched atop a bluff a ruined fortress stands. 
 - We land in the streets and see group of citizens, a mother and 2 boys come out of a half collapsed house. They are starving and looking for food. 3 Bearded devils start to approach them

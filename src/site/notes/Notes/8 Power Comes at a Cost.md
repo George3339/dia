@@ -7,7 +7,7 @@
 - [[People and Orgs/People/Ivor Sane\|Ivor]] tells us about himself (upon being prompted by [[People and Orgs/PCs/Lane Wayne\|Lane]])
 - There is a split in the road and merging towards us is a troupe of dwarves
 	- There are about 5-6 of them. I approach and one of them introduce themselves as [[People and Orgs/People/Leatherfeet\|Leatherfeet]] (after his leathery beard). 
-	- They are headed to a settlement named [[Places/Furscull\|Furscull]] to meet with clients and then they are going to a family settlement
+	- They are headed to a settlement named [[Places/Avernus/Furscull\|Furscull]] to meet with clients and then they are going to a family settlement
 	- His cousin [[People and Orgs/People/Dwayne\|Dwayne]] was in [[Places/Eltaurel/Elturel\|Elturel]] when it fell
 - [[People and Orgs/PCs/Bras\|Bras]] sees a dragon in the sky and we scatter towards the tree-line
 	- It is a white dragon with a broken metal shackle around it's neck 

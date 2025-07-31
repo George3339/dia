@@ -23,10 +23,10 @@ The War machine rolls up and near the front we see a goblin with some advanced a
 - I collect a vial of the river styx
 	- A ghostly hand pulls up at the vial and I hear a cry that sounds like the cry of the workers at the mines in my past life
 - In the distance we will see the [[Forge of Bell\|Forge of Bell]]
-	- Bell is the former leader of [[Places/Avernus\|Avernus]]
+	- Bell is the former leader of [[Places/Avernus/Avernus\|Avernus]]
 		- He might hate [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]
 		- He is the second in command 
-- We make our way to [[Places/Haruman's Hill\|Haruman's Hill]]
+- We make our way to [[Places/Avernus/Haruman's Hill\|Haruman's Hill]]
 
 # Haruman's Hill
 - I eat another magic pear

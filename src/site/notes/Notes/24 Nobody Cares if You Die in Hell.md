@@ -24,7 +24,7 @@
 They pull up on us, there is one that looks like ours but is gold plated
 - At the head of this one there is an upside down deamon which is dripping blood into the enginge.
 - The two other ones are piloted my mezoloths
-- The pilot of the main one we recognize from the [[Places/Wandering Emporium\|Wandering Emporium]] 
+- The pilot of the main one we recognize from the [[Places/Avernus/Wandering Emporium\|Wandering Emporium]] 
 	- She has a bunch of undead running her car
 - We fuck them up but the caster casts time stop
 	- As she passes us "See you around"
@@ -32,7 +32,7 @@ They pull up on us, there is one that looks like ours but is gold plated
 - I study the dark shard again
 	- I don't get much more info than last time. I see a glimpse of green goo pit under me as I fly through the air
 - While the others drive they see [[People and Orgs/People/Paladin Danse\|Paladin Danse]] pass by them on a war machine 
-## Approaching the [[Places/Daemon Zapper\|Daemon Zapper]]
+## Approaching the [[Places/Avernus/Daemon Zapper\|Daemon Zapper]]
 - There is a unicorn encased in an orb which seems to power? the zapper
 - A Dao comes out of the ground. She is [[People and Orgs/People/Ralzala\|Ralzala]]. As she emerges she casts tongues
 	- She defends Mooncolour. She was tasked with defending it. It destroys fiends 

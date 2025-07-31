@@ -10,7 +10,7 @@
 - EP: 
 - SP: 
 - CP: 32
-- Soul coins: 1
+- Soul coins: 2
 # Weapons and Armour
 - Light Crossbow
 - 20 Bolts
@@ -32,13 +32,13 @@
 - Vial of poison (poison shot)
 - [[Inventory/Magical Items/Yellow Elemental Gem\|Yellow Elemental Gem]]
 - 2 bottles of Demon Ichor 
-- 1 saphire worth 300 GP
+- 1 sapphire worth 300 GP
 - Scroll of Remove Curse 
-- A vial of water from the [[Places/River Styx\|River Styx]]
+- A vial of water from the [[Places/Avernus/River Styx\|River Styx]]
 - 4 bag of beans eggs
 - 2 Vials of acid
-- A small ring (Ring of protection)
-- A bag that looks similar to a bag of holding
+- A small ring (Ring of protection) (Curse: While attuned you forget common)
+- A bag of devouring
 
 # Miscellaneous 
 - 2 Vials of Holy Water
