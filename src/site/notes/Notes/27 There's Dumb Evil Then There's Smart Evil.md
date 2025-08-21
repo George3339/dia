@@ -34,11 +34,11 @@
 		- I thought there was a genie in it. if there is he didn't pop out
 	- Why are you in the hells?
 		- I haven't figured that out yet. I guess I'm trying to get back home
-	- more 
-		- I don't know what it is. I killed a very powerful devil who wore one 
+	- more about the amulet 
+		- I don't know what it is. I killed a very powerful devil who wore one, it was a bright red on the devil and turned green when he killed him and put it on
 	- Talking about who is chosen by gods
-		- It's me or the wizard
-			- I attract devils it's probably not good I travel with you. There's another reason I cn't be with you all. 
+		- It's me or the wizard who aren’t 
+			- I attract devils it's probably not good I travel with you. There's another reason I can't be with you all. 
 				- "So that's the way it's gonna be you old fart"
 		- "Listen up! One of you is not an apostle. And on a separate note, heed these words: Should one day your ambition crumble and you choose sacrifice, I will be there to stop you. And in the meantime, Remember where we are and that every single thing is pure evil." Kyma feels that this gathering with Guts is something extremely rare and likely will not happen for a long time. It comes from the star in his hand
 		- Are you an apostle Guts?

@@ -37,6 +37,9 @@
 [[Notes/24 Nobody Cares if You Die in Hell\|24 Nobody Cares if You Die in Hell]]
 [[Notes/25 To Be Good In Hell Is To Be Insane\|25 To Be Good In Hell Is To Be Insane]]
 [[Notes/26 The Easiest Lie is When You're Expecting it\|26 The Easiest Lie is When You're Expecting it]]
+[[Notes/27 There's Dumb Evil Then There's Smart Evil\|27 There's Dumb Evil Then There's Smart Evil]]
+[[Notes/28 It Wouldn't Be A Game If You Knew The Ending\|28 It Wouldn't Be A Game If You Knew The Ending]]
+
 # Inventory
 ## [[Inventory/Party Inventory\|Party Inventory]]
 

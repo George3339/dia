@@ -39,7 +39,7 @@
 	- What do you now about magic condensing in the hells?
 		- Only has such level of magic been present in one place a handfull of times in the last several millenia, it can cause a straining to the weave. 
 	- What was your mission for Zariel?
-		- Prevent archon the cruel from completing his goal (pauses between his words as he says this)
+		- Prevent [[Archon the Cruel\|Archon the Cruel]] from completing his goal (pauses between his words as he says this)
 
 
 # Across the Styx

@@ -11,8 +11,8 @@
 - Secret Juice (Lane)
 - [[Magic Items not owned/Ring of Invisibility\|Ring of Invisibility]]  (Bras)
 - [[Magic Items not owned/Bracers of Defence\|Bracers of Defence]] (Kyma)
-- 2 Soul Coins (Lane)
-- 2 Soul Coins (Kyma)
+- 3 Soul Coins (Lane)
+- 3 Soul Coins (Kyma)
 - 2 Sapphires worth 300 GP
 - 2 diamonds worth 1000 GP
 - Amulet of Detect Thoughts (Kyma)
@@ -21,6 +21,8 @@
 - Various war machine scrap parts
 - Spare tire
 - Splint Armor
+- Dragon Orb
+	- Orb of Dragonkind
 
 # Party Money
 

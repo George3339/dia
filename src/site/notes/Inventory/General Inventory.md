@@ -10,7 +10,7 @@
 - EP: 
 - SP: 
 - CP: 32
-- Soul coins: 2
+- Soul coins: 3
 # Weapons and Armour
 - Light Crossbow
 - 20 Bolts
@@ -31,14 +31,20 @@
 # Valuables
 - Vial of poison (poison shot)
 - [[Inventory/Magical Items/Yellow Elemental Gem\|Yellow Elemental Gem]]
-- 2 bottles of Demon Ichor 
+- 3 bottles of Demon Ichor 
 - 1 sapphire worth 300 GP
 - Scroll of Remove Curse 
 - A vial of water from the [[Places/Avernus/River Styx\|River Styx]]
-- 4 bag of beans eggs
+
 - 2 Vials of acid
 - A small ring (Ring of protection) (Curse: While attuned you forget common)
 - A bag of devouring
+- Helm of Torm
+- bottled breath
+- Stone with blue specks and black scales
+	- *Identify:* Hearthstone, attunement required, must be a fiend
+- a magical looking bag
+	- *Identify:* Soul Bag, attunement required, must be a fiend
 
 # Miscellaneous 
 - 2 Vials of Holy Water
@@ -52,7 +58,6 @@
 
 # Stored Inside Ring
 - 2 Manacles
-- Dark shard emanating a magical aura
 - Abishai Longsword
 - Skeleton Minotaur Horn
 
