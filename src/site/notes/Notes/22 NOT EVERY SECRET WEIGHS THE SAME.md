@@ -17,7 +17,7 @@ A woman with light brown skin, it looks like she has barber's equipment. She has
 ## Beer Purifying
 - We make the beer
 - The large lion man walks up to us, "I've never seen folks make beer here, how interesting." He seeks a fierce battle "Here comes a worthy opponent now"
-	- Every person is stunned as a large devilish creature comes down from the sky. Everyone kneels. He looks at my necklace closely for a moment. The devil is [[People and Orgs/Deities and Beings of Power/Bell\|Bell]]
+	- Every person is stunned as a large devilish creature comes down from the sky. Everyone kneels. He looks at my necklace closely for a moment. The devil is [[People and Orgs/Deities and Beings of Power/Bel\|Bel]]
 		- "Listen up. Your archduchess has a task for you all. This man is wanted dead, bring his head to my forge, [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]] or a warcheif." The man in the image is [[People and Orgs/People/Guts\|Guts]]. Multiple posters are placed around the camp. He comes over to me, looks me up and down "Huh, what a joke." Before leaving he gets a scroll from [[People and Orgs/People/Mahadi\|Mahadi]]'s tent
 ## Shops 2
 ### Contracts and Couriers 

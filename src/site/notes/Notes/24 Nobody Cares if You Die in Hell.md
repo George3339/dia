@@ -39,7 +39,7 @@ They pull up on us, there is one that looks like ours but is gold plated
 	- She is bound here due to a pact she made with [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]
 	- "Zariel is near Godhood"
 	- She knows someone who could help us oppose Zariel
-		- [[People and Orgs/Deities and Beings of Power/Bell\|Bell]] would do anything to overthrow Zariel
+		- [[People and Orgs/Deities and Beings of Power/Bel\|Bel]] would do anything to overthrow Zariel
 		- She wants us to help us free her from her pct with Zariel
 		- As for the sword, I can only imagine that Bell would know where it is
 	- How do we break your contract

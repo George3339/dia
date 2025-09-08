@@ -11,7 +11,7 @@
 [[People and Orgs/People/Paladin Danse\|Paladin Danse]] 
 - He is searching for a way to break the chains
 - Locations he points out
-	- [[People and Orgs/Deities and Beings of Power/Bell\|Bell]]'s Forge
+	- [[People and Orgs/Deities and Beings of Power/Bel\|Bel]]'s Forge
 	- Dragon or two coming from the skull thing at the top left
 	- I don't know what the floating things are
 - He's also sensed some magical chatter cluttering the air, similar to the sending interference

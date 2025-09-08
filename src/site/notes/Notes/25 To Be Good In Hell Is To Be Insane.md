@@ -42,7 +42,7 @@ He thinks of [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]]'s dad. He floats tow
 
 "You are required for the solution" "How risky are we getting?" "This is a no risk zone" Lane cuts himself and the scale lowers a little, further cutting himself does nothing. "BALANCE IT BALANCE IT" sounds in Lane's head
 
-Bras thinks of [[People and Orgs/Deities and Beings of Power/Bell\|Bell]], he falls onto the scale with them. "Give me that" and Lane lets the sword of Zariel fall into the inky black. The scale goes to even and then more than even, and then he wakes up. 
+Bras thinks of [[People and Orgs/Deities and Beings of Power/Bel\|Bel]], he falls onto the scale with them. "Give me that" and Lane lets the sword of Zariel fall into the inky black. The scale goes to even and then more than even, and then he wakes up. 
 
 # I dream
 I dream of a peaceful day with my family, it a place I do not recognize, but a place that is safe. The day passes as it does and I find myself going down to the cellar. The last thing I see as I wake up is a figure bound in chains. It could be Lane, it might not be
