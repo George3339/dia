@@ -10,7 +10,7 @@
 - EP: 
 - SP: 
 - CP: 32
-- Soul coins: 3
+- Soul coins: 5
 # Weapons and Armour
 - Light Crossbow
 - 20 Bolts
@@ -35,6 +35,8 @@
 - 1 sapphire worth 300 GP
 - Scroll of Remove Curse 
 - A vial of water from the [[Places/Avernus/River Styx\|River Styx]]
+- Orb of Dragonkind
+- Winged amulet
 
 - 2 Vials of acid
 - A small ring (Ring of protection) (Curse: While attuned you forget common)
