@@ -47,7 +47,7 @@ A way to potentially bind the city to the deal. All the souls of [[Places/Eltaur
 
 </div></div>
 
-
+### Sword of Zariel 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -60,7 +60,7 @@ The Grand Duke mentions the sword in his recounting of the visions he saw when w
 
 
 </div></div>
-
+ 
 
 ## Dragons and The Cult of Tiamat
 
