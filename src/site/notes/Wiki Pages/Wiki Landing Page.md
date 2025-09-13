@@ -40,6 +40,7 @@
 [[Notes/27 There's Dumb Evil Then There's Smart Evil\|27 There's Dumb Evil Then There's Smart Evil]]
 [[Notes/29 It Wouldn't Be A Game If You Knew The Ending\|29 It Wouldn't Be A Game If You Knew The Ending]]
 [[Notes/30 Did You Know All Warfare is Deception?\|30 Did You Know All Warfare is Deception?]]
+[[Notes/31 You Know Armies Need Communication...\|31 You Know Armies Need Communication...]]
 
 # Inventory
 ## [[Inventory/Party Inventory\|Party Inventory]]
