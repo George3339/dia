@@ -9,7 +9,7 @@
 	- We decide to go talk to [[People and Orgs/People/Gideon Lightward\|Gideon Lightward]] instead to try and buy his crystal ball off him 
 
 # The chapel 
-- There's a hole in the ground with a purple mist around it. I drop a rock down and it hits a bottom 
+- There's a hole in the ground with a purple mist around it. [[People and Orgs/PCs/Eamonn\|Eamonn]] drops a rock down and it hits a bottom 
 	- It smells like dirt and death
 - "You should not have come back"
 	- We kill Gideon to get his 

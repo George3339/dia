@@ -28,7 +28,7 @@ Where we left off... We rescued the Grand Duke from death and defeat at the hand
 # A Rest
 - [[People and Orgs/PCs/Lane Wayne\|Lane]] is confronted about his racism
 	- Dwarves create weapons 
-- I cast identify on the evil stone
+- [[People and Orgs/PCs/Eamonn\|Eamonn]] casts identify on the evil stone
 	- As i touch it, I am overcome with a vision. Flashes of the wasteland of hell below me, flame and brimstone, darkness. I see large machines. I start to move fast through the terrain of hell. I see a large black canyon with tree branches pushing through the side of the stone. Deeper down a black wall of stone. In the corner of the end of the canyon I see a gaping hole in the ground covered in dark black vines. I start to descend into the hole, I feel the aura of the stone flowing. I reach the darkness at the tip of hell. I see a dark sarcophagus flowing with a magic that is  purely evil and dark. The only thought that comes to mind is, what sort of dark power could reside within this sarcophagus. 
 	- This is a fragment of something stronger, of the sarcophagus. It's a way of finding it. It was changed and altered by a wish.
 - I learn that [[People and Orgs/People/Guts\|Guts]] passed through [[Places/Eltaurel/High Hall\|High Hall]] walked down the chains. He had one eye closed. He probably descended one of the nearby chains

@@ -55,14 +55,14 @@ soul coins
 
 # The Helm and Sword
 The cracked hem and sword of a titan protrudes from the ground of avernus. A spherical stone of the sword's pommel still gleams with scarlet radiance
-- The spine devil that is in the helm is named Uldrach 
+- The spine devil that is in the helm is named [[Uldrach\|Uldrach]] 
 	- The queens blood turns him back
 		- Tiamat's blood
 			- Spill diamat's blood on the ground
 			- [[Archon the Cruel\|Archon the Cruel]] has tiamat's blood
 	- The pommel, the orb
 		- It's a dragon orb, he hands it to us
-	- Where is Archon the cruel
+	- Where is [[Archon the Cruel\|Archon the Cruel]]
 		- Dragons big tower
 
 # On the road

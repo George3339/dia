@@ -14,6 +14,7 @@ An angel, a devil, a being of divine strength above the battlefield
 
 [[People and Orgs/PCs/Lane Wayne\|Lane]]
 
+[[People and Orgs/PCs/Eamonn\|Eamonn]]
 # Arriving in Baldur’s Gate
 [[People and Orgs/People/Capitan Zoge\|Capitan Zoge]] a tall man with an eyepatch
 
@@ -102,11 +103,11 @@ In the cult necropolis
 
 - We come across a room with three doors
 - West door: A carving of a powerfully built skull man holding 2 long daggers
-	- Bhaal
+	- [[People and Orgs/Deities and Beings of Power/Bhaal\|Bhaal]]
 - South: cloaked figure with face covered by a cowl holding a skull
-	- Mirkul
+	- [[Mirkul\|Mirkul]]
 - East tall armoured man, a black gauntlet holding shackles
-	- Bane
+	- [[People and Orgs/Deities and Beings of Power/Bane\|Bane]]
 - Bhaal door
 	- TAPESTRY OF four faceless figures ripping someone apart
 - Bane Door

@@ -8,7 +8,7 @@
 	- [[People and Orgs/PCs/Bras\|Bras]] finds ppl locked in cages in the attic
 - The guards try to extort more money
 - We walk into the last brother's room
-	- I trigger a magical trap
+	- [[People and Orgs/PCs/Eamonn\|Eamonn]] triggers a magical trap
 	- "[[Places/Eltaurel/Elturel\|Elturel]] is just the first step"
 	- The [[Magic Items not owned/puzzle box\|puzzle box]]] 
 		- there's a maze on each face of the box and it's negative space grows red/orange 

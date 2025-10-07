@@ -16,7 +16,7 @@
 ## Crypt
 - Sarcophagi in the walls
 - Stone shelves
-- I find a Potion of greater healing
+- [[People and Orgs/PCs/Eamonn\|Eamonn]] finds a Potion of greater healing
 - Kyma finds gems
 - In the distance we hear a boom 
 

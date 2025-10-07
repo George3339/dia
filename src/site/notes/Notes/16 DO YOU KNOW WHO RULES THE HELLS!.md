@@ -14,7 +14,7 @@
 - When the [[People and Orgs/Deities and Beings of Power/Devil of Pain\|devil of pain]] sees me wearing the same red amulet I am wearing he says: "What? You!? I will not accept that!!!"
 - [[Kyma\|Kyma]] pushes the devil of pain off the chains but he then grows wings 
 - "What do you mean me?"
-	- He smiles, "It just means I want to kill you first Eamonn" As he says this, it's as if hell goes silent with a gasp. The fighting below us stops for a moment and Pain looks down. We all see an angelic figure descend into the battlefield.
+	- He smiles, "It just means I want to kill you first [[People and Orgs/PCs/Eamonn\|Eamonn]]" As he says this, it's as if hell goes silent with a gasp. The fighting below us stops for a moment and Pain looks down. We all see an angelic figure descend into the battlefield.
 		- The angelic creature is annihilating demons on the battlefield. 
 			- Pain looks at us and says "Time to go"
 			- I take the red amulet off his corpse as he dies and falls, it feels wrong, like it's not mine

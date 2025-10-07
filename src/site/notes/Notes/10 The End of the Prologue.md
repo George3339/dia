@@ -9,7 +9,7 @@ An imp is trying to make a deal with [[People and Orgs/People/Harkna\|Harkna]]
 - [[People and Orgs/People/Redscar\|Redscar]] is the imp making the deal, he is saying he can bring back her son
 	- It would be rare for an imp to be able to bring someone to life
 We continue to press on to [[Places/Eltaurel/High Hall\|High Hall]]
-- I go to cast speak with dead on Harkna's son's corpse but a geyser of flame erupts and burns his body
+- [[People and Orgs/PCs/Eamonn\|Eamonn]] goes to cast speak with dead on Harkna's son's corpse but a geyser of flame erupts and burns his body
 We approach [[Places/Eltaurel/Torm's Bridge\|Torm's Bridge]]
 - A rift in the earth splits [[Places/Eltaurel/Elturel\|Elturel]]
 - A bridge 20 ft wide spans the chasm, holy wards on the bridge have been etched onto the bridge 

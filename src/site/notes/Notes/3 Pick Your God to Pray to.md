@@ -32,7 +32,7 @@
 		- His family is rich, his mum has connections in the counting house
 	- He knows who [[People and Orgs/People/Markus Porter\|Markus]] is
 - His mother might have powers given by [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]] 
-- The Dead Three's interests are in line with the interests of Zariel
+- [[People and Orgs/Orgs/Cult of the Dead Three\|Cult of the Dead Three]]'s interests are in line with the interests of Zariel
 - He doesn't like his brother [[People and Orgs/People/Thirswell Vanthampur\|Thirswell Vanthampur]]
 - He has a stash of gold in his rooms
 - We have until his mother deals with [[People and Orgs/People/Enver Gortash\|Gortash]] till the city falls
@@ -42,6 +42,7 @@
 	- We have the boar eat his face off
 - We go to and inn named the [[Places/Baldur's Gate/Sleepy Fairy\|Sleepy Fairy]]
 ## Dream
+[[People and Orgs/PCs/Eamonn\|Eamonn]]
 - Watching the ppl in the mines in the desert
 - I realize I'm looking for the guy I'm trying to find
 	- I feel a jolt and someone walks past and bumps into me

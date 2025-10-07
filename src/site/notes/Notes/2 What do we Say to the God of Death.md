@@ -11,7 +11,7 @@
 ## Back at the Tavern
 - After, at the bar there is a message from [[People and Orgs/People/Vendetta\|Vendetta]] with coin purse containing 3 gold coins  
 	- Thank you for saving me. I'm sure this happens a lot in this city and I'd hate to be an exception, you probably won't see me again
-- Up in the room I watch [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] identify the spell books 
+- Up in the room [[People and Orgs/PCs/Eamonn\|Eamonn]] watches [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] identify the spell books 
 
 # The Next Day
 - A sign is up that the business is for sale

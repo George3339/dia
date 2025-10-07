@@ -8,7 +8,7 @@
 	- There is a humanoid guy. He has green skin and it looks like tree roots as hair. He has some modded armour and a bunch of misc gear
 	- "[[People and Orgs/People/The Smiler\|The Smiler]] has always got to stay on move."
 	- He tells us there's rain coming and pisses
-	- He's off to take down a war machine and then notes that another is [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]'s
+	- He's off to take down a war machine and then notes that another in the distance is [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]'s war machine 
 	- "Lots of wizards out now. Things are happening."
 	- He sprouts black feathered wings and flies off
 ## Where to go

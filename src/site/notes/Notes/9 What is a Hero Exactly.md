@@ -15,7 +15,7 @@
 - [[People and Orgs/People/Traxagor\|Traxagor]] is hosting someone names [[People and Orgs/People/Lulu\|Lulu]] who has a history of fighting devils
 # The Flight of the Griffons
 - There are a fleet of griffons waiting to transport us to Traxigor
-- I am hesitant about flying, but we each get one for ourselves (though Bras and [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]] are flying together)
+- [[People and Orgs/PCs/Eamonn\|Eamonn]] is hesitant about flying, but we each get one for ourselves (though [[People and Orgs/PCs/Bras\|Bras]] and [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]] are flying together)
 - Why did Bras steal
 { #f07add}
 

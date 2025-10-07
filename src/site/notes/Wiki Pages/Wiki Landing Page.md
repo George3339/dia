@@ -3,6 +3,10 @@
 ---
 
 [[Notes/🧵 Threads\|🧵 Threads]]
+
+# Current Quest
+We are crossing the [[Places/Avernus/River Styx\|River Styx]] to retrieve a vial of  [[People and Orgs/Deities and Beings of Power/Tiamat\|Tiamat]]'s Blood from [[Archon the Cruel\|Archon the Cruel]]. We are doing this so we can spill Tiamat's Blood in [[Places/Avernus/Avernus\|Avernus]] and return [[Uldrach\|Uldrach]] to his titan form. With his blood we can free the Dao [[People and Orgs/People/Ralzala\|Ralzala]] from her contract with [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]] so that she can provide us an audience with the Forgemaster of Avernus, [[Bell\|Bell]].
+
 # Characters 
 - [[People and Orgs/PCs/Eamonn\|Eamonn]]
 - [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]]

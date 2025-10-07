@@ -30,7 +30,7 @@
 		- What are you
 			- Blesses, unique, reborn. [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]'s power flows through his veins. 
 			- The duke is downstairs
-	- I pick up one of the Minitour Gores 
+	- [[People and Orgs/PCs/Eamonn\|Eamonn]] picks up one of the Minitour Gores 
 ## The Ossuary 
 - I search the entrance room for any intact jars or vials Investigation 15
 	- I find an old elixir of arcane cultivation 

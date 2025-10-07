@@ -29,6 +29,6 @@
 	- We kill him
 		- He has a demon dick
 ### Tapestry room
-- In the tapestry I see a moving image, a genie lamp 
+- In the tapestry [[People and Orgs/PCs/Eamonn\|Eamonn]] sees a moving image, a genie lamp 
 	- It begins to pull me in
 	- 

@@ -72,8 +72,10 @@ A cult worshipping the evil dragon goddess [[People and Orgs/Deities and Beings 
 
 </div></div>
 
-We have seen a dragon on our way to [[Places/Candlekeep\|Candlekeep]] as well as in [[Places/Avernus/Avernus\|Avernus]]. The dragon on out way to Candlekeep was a white dragon with a broken metal shackle around it's neck. 
-We have been told that there are some dragons in the skull like thing on the top left of our map by [[People and Orgs/People/Paladin Danse\|Paladin Danse]].
+**Other Notes**
+- We have seen a dragon on our way to [[Places/Candlekeep\|Candlekeep]] as well as in [[Places/Avernus/Avernus\|Avernus]]. The dragon on out way to Candlekeep was a white dragon with a broken metal shackle around it's neck. 
+- We have been told that there are some dragons in the skull like thing on the top left of our map by [[People and Orgs/People/Paladin Danse\|Paladin Danse]].
+- [[Uldrach\|Uldrach]]
 
 ## The Lamp and Guts
 

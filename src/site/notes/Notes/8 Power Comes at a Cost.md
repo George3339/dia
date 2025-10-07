@@ -6,10 +6,10 @@
 # Leaving a Dead Compatriot 
 - [[People and Orgs/People/Ivor Sane\|Ivor]] tells us about himself (upon being prompted by [[People and Orgs/PCs/Lane Wayne\|Lane]])
 - There is a split in the road and merging towards us is a troupe of dwarves
-	- There are about 5-6 of them. I approach and one of them introduce themselves as [[People and Orgs/People/Leatherfeet\|Leatherfeet]] (after his leathery beard). 
+	- There are about 5-6 of them. [[People and Orgs/PCs/Eamonn\|Eamonn]] approachs and one of them and they introduce themselves as [[People and Orgs/People/Leatherfeet\|Leatherfeet]] (after his leathery beard). 
 	- They are headed to a settlement named [[Places/Avernus/Furscull\|Furscull]] to meet with clients and then they are going to a family settlement
 	- His cousin [[People and Orgs/People/Dwayne\|Dwayne]] was in [[Places/Eltaurel/Elturel\|Elturel]] when it fell
-- [[People and Orgs/PCs/Bras\|Bras]] sees a dragon in the sky and we scatter towards the tree-line
+- [[People and Orgs/PCs/Bras\|Bras]] sees a dragon in the sky and we scatter towards the tree-line #Dragon 
 	- It is a white dragon with a broken metal shackle around it's neck 
 		- [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] has heard of legends of ppl who have subjugated dragons
 	- The dragon circles a little and then continues to fly north.

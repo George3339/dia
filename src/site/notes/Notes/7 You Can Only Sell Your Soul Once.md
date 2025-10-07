@@ -4,11 +4,11 @@
 
 
 # A Mal-Rested Morning
-- I describe the thief i encountered to the party and go to a contact [[People and Orgs/People/Rasmus\|Rasmus]] that can get us in contact with [[People and Orgs/People/Nine Fingers\|Nine Fingers]]
+- [[People and Orgs/PCs/Eamonn\|Eamonn]]describes the thief he encountered to the party and go to a contact [[People and Orgs/People/Rasmus\|Rasmus]] that can get us in contact with [[People and Orgs/People/Nine Fingers\|Nine Fingers]]
 	- We split in groups of two
 - [[People and Orgs/People/Rasmus\|Rasmus]] opens the door, he is a dirty looking teenager with an eye patch. 
 - He has me hand him the sketch and he goes upstairs
-	- He has a name and generally area
+	- He has a name and general area
 		- He is [[People and Orgs/People/Cronk Srublife\|Cronk Srublife]] but he goes by [[People and Orgs/People/Mortor\|Mortor]]
 		- He frequents [[Places/Baldur's Gate/The Wasted Reindeer\|The Wasted Reindeer]] in the eastern [[Places/Baldur's Gate/Lower City\|Lower City]]
 # The Wasted Reindeer

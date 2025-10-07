@@ -9,8 +9,8 @@
 - A creature with white pale skin and red eyes pops up
 	- I can't tell what it is exactly, some sort of devil
 	- It's the [[People and Orgs/Deities and Beings of Power/Devil of Pain\|Devil of Pain]]
-- I ritual cast Meld with stone 
-	- As I start to on Kyma two footsteps start to descend 
+- [[People and Orgs/PCs/Eamonn\|Eamonn]] ritual casts Meld with stone 
+	- As I start to on Kyma two footsteps start to descend the stairs
 	- Two figures in robes come down the stairs
 		- They seem like cultists
 	- "Are they almost done upstairs? yes.""The rest of them are gathered downstairs. That's not our problem."

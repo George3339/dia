@@ -19,7 +19,7 @@ The Infernal Patron, by right of pact and compact, shall:
 
 a. Release the Bound Party from servitude and binding oaths owed to any former patron, spirit, genie, or elemental sovereign, including but not limited to the Dao herein unnamed.
 
-b. Transfer of Patronage: Thereafter, [[People and Orgs/PCs/Eamonn\|the Bound Party]] shall derive ==puissance, might==, and eldritch faculties solely and entirely from the Infernal Patron.
+b. Transfer of Patronage: Thereafter, [[People and Orgs/PCs/Eamonn\|the Bound Party]] shall derive (eldritch, faculties,) ==puissance, (and) might==, ~~and eldritch faculties~~ solely and entirely from the Infernal Patron.
 
 c. Lantern Custody: Upon the ==satisfactory fulfillment of obligations defined in this Compact==, the Infernal Patron shall relinquish custody and ownership of the Lantern of the Dao into the possession of the Bound Party.
 
