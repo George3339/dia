@@ -38,4 +38,4 @@
 	- I collect a bottle of demon Ichor
 	- Sunspark seems quite secretive
 		- He seems to be a vampire
-		- 
+		- we kill him
