@@ -31,7 +31,7 @@
 	- Splint armour 
 - Speak with dead
 	- Who were you?
-		- My name was [[Victor\|Victor]]
+		- My name was [[People and Orgs/People/Victor\|Victor]]
 	- What is your relation to [[People and Orgs/Deities and Beings of Power/Kelemvor\|Kelemvor]]?
 		- None whatsoever
 	- Who did you serve in life
@@ -39,7 +39,7 @@
 	- What do you now about magic condensing in the hells?
 		- Only has such level of magic been present in one place a handfull of times in the last several millenia, it can cause a straining to the weave. 
 	- What was your mission for Zariel?
-		- Prevent [[Archon the Cruel\|Archon the Cruel]] from completing his goal (pauses between his words as he says this)
+		- Prevent [[People and Orgs/Archon the Cruel\|Archon the Cruel]] from completing his goal (pauses between his words as he says this)
 
 
 # Across the Styx

@@ -105,7 +105,7 @@ In the cult necropolis
 - West door: A carving of a powerfully built skull man holding 2 long daggers
 	- [[People and Orgs/Deities and Beings of Power/Bhaal\|Bhaal]]
 - South: cloaked figure with face covered by a cowl holding a skull
-	- [[Mirkul\|Mirkul]]
+	- [[People and Orgs/Deities and Beings of Power/Mirkul\|Mirkul]]
 - East tall armoured man, a black gauntlet holding shackles
 	- [[People and Orgs/Deities and Beings of Power/Bane\|Bane]]
 - Bhaal door

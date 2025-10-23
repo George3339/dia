@@ -34,7 +34,7 @@
 You wake up in your bed in your hometown. You walk out and walk through a faint memory in your village. You're compelled to walk through the woods. As you do, you hear a voice "Donkus, Donkus, come join me". Sitting in a bed of flowers and vines you see a beautiful silhouette of a woman lying sexily. She's wearing a leaf dress. "Join me Donkus" **"I would pounce"** He 'engages' She says "I love you Donkus". "It's me. Don't you have faith? What's wrong?" "Just tell me your name, you know mine" "I'm the woman of your dreams, I'm the mother of the forest, i'm her" "Are you the [[People and Orgs/Deities and Beings of Power/Chauntea\|Earth Mother]]?" "Yes child. Be loyal to me" "I already am" "That's all I wanted to hear." The last thing you remember fromt he dream is a prick on your neck as she sucks on your neck. 
 
 ## Lane Dreams
-You have this pounding feeling, you almost expect to be approached but you just see the scale, the image of [[People and Orgs/Deities and Beings of Power/Kelemvor\|Kelemvor]]. It grows larger and larger as you hear "Balance" repeated over and over. The side of the scale you are on goes up and you feel a burning feeling in tour chest. You look over at the other arm of the scale and you see burning and hell. All you think about is how to restore balance. "What can I do to restore balance" He thinks about the [[Sword of Zariel\|Sword of Zariel]] slicing through the chains, the sword appears on the scale and it barely budges. He thinks of his hand extended with the sword of Zariel. 
+You have this pounding feeling, you almost expect to be approached but you just see the scale, the image of [[People and Orgs/Deities and Beings of Power/Kelemvor\|Kelemvor]]. It grows larger and larger as you hear "Balance" repeated over and over. The side of the scale you are on goes up and you feel a burning feeling in tour chest. You look over at the other arm of the scale and you see burning and hell. All you think about is how to restore balance. "What can I do to restore balance" He thinks about the [[Magic Items not owned/Sword of Zariel\|Sword of Zariel]] slicing through the chains, the sword appears on the scale and it barely budges. He thinks of his hand extended with the sword of Zariel. 
 
 He thinks of Bras. Bras appears on the scale, bras is now here in dreams. "What is this?" "This is the balance that needs to be restored" "Because I fucking died? What?" "This is a brainstorming session" The scale balances a bit
 
@@ -71,7 +71,7 @@ The three of these, perhaps fining meaning in the lack fo closure that you might
 
 # We set out
 #Dragon 
-As we set out we see a huge white dragon fly over us. It stabilizes 105 feet above us "Allow me to introduce myself. I am [[Obatala\|Obatala]] and you have something of mine. I am unsure of where you carry it but i am certain it is within your possession. Should you wish to spare all your lives I will be requesting that you relinquish it to me in a calm and cooperating manner. Because I have no problem evicerating all of you where you sit."
+As we set out we see a huge white dragon fly over us. It stabilizes 105 feet above us "Allow me to introduce myself. I am [[People and Orgs/Obatala\|Obatala]] and you have something of mine. I am unsure of where you carry it but i am certain it is within your possession. Should you wish to spare all your lives I will be requesting that you relinquish it to me in a calm and cooperating manner. Because I have no problem evicerating all of you where you sit."
 
 "What stone"
 "The dark touched one"

@@ -6,7 +6,7 @@
 ---
 
 
-*With [[Karlach\|Karlach]]'s brother dead we continue on our quest.*
+*With [[People and Orgs/People/Karlach\|Karlach]]'s brother dead we continue on our quest.*
 
 ---
 
@@ -14,7 +14,7 @@
 - Two winged devils attack us
 - One of them has
 	- 1 soul coin
-- [[Karlach\|Karlach]]'s brother's ashes seem to form a lemure
+- [[People and Orgs/People/Karlach\|Karlach]]'s brother's ashes seem to form a lemure
 	- I take his head to cast speak with dead
 # On the Road
 We ride uninterrupted for an hour.
@@ -24,7 +24,7 @@ We ride uninterrupted for an hour.
 	- We see [[People and Orgs/People/The Smiler\|The Smiler]] fly across and hit the side of the war machine.
 	- Detect Thoughts
 		- Surface: Nothing to see, nothing over there, must of lost her, keep moving keep moving good.
-		- Deeper: ![Pasted image 20250912213412.png](/img/user/Pasted%20image%2020250912213412.png)
+		- Deeper: ![Pasted image 20250912213412.png](/img/user/z%20Photos/Pasted%20image%2020250912213412.png)
 		- We see a static figure in the sky, it is [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]
 	- Explain yourself 
 		- You owe me an explanation. I've done more for the city than you all have, I'm out here saving the innocent
@@ -57,11 +57,11 @@ A 30ft tall obelisk rises front he crest of the hill. A tall man in rags gesticu
 - Do you know about the blood war, about Zariel? "I know it is happening, I know of Zariel"
 - **Detect Magic:** I notice illusion magic emanating from him
 - **Detect Thoughts:** It should work, it should work, just get them to touch the stones. If it doesn't work then I'll know for sure
-- "I know someone who can lead you to the [[Sword of Zariel\|Sword of Zariel]]"
+- "I know someone who can lead you to the [[Magic Items not owned/Sword of Zariel\|Sword of Zariel]]"
 - **Probe:** He is desperate, he believes that it would work to free him. Mephistopheles be damned if I don't find a way out myself. Olanthius would know where the citadel is.
 - Show us your real self. 
 	- "Let me ask you something, do you oppose Zariel"
-		- A large demon with orange fur and big tusks. "I am [[Ubelax\|Ubelax]] the demon, and we are not enemies" 
+		- A large demon with orange fur and big tusks. "I am [[People and Orgs/Ubelax\|Ubelax]] the demon, and we are not enemies" 
 		- They cary faint magic, it should be harmless, just touching them should be harmless. 
 - Touching the Stones
 	- I put my hand on the divination standing stone
@@ -77,7 +77,7 @@ A 30ft tall obelisk rises front he crest of the hill. A tall man in rags gesticu
 	- As [[People and Orgs/PCs/Bras\|Bras]] touches the Necrotic stone he takes 30 damage as it sucks the life out of him
 	- As [[People and Orgs/PCs/Lane Wayne\|Lane]] tocuhes the Illusion stone magic pulses from the stone as a swarm of ravens swarms around his head
 	- [[People and Orgs/People/Lulu\|Lulu]] touches the Abjuration stone and her AC goes up
-- We touch all the stones and he is still restrained. It would seem my fate stays in the hand of a sigular devil. You must go to the [[Mirror of Mephistar\|Mirror of Mephistar]] and contact [[Mephistopheles\|Mephistopheles]]. 
+- We touch all the stones and he is still restrained. It would seem my fate stays in the hand of a sigular devil. You must go to the [[Mirror of Mephistar\|Mirror of Mephistar]] and contact [[People and Orgs/Deities and Beings of Power/Mephistopheles\|Mephistopheles]]. 
 - Lulu knows who Olantheus is
 	- He was one of the [[People and Orgs/Orgs/Hellriders\|Hellriders]] with [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]] before she fell
 # On The Road Again

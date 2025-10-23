@@ -9,10 +9,10 @@ I wake up and feel strong and good this morning. I gain the ability to cast mold
 
 ## Shops
 ### Ichor's Away
-Human like with robes which cover his hands, it looks like there are tentacles under. He has no ears. It looks like he's selling demon ichor. What can you use demon ichor for, a war machine speed boost, should you desire a change of pace in terms of your parents flesh warping can be a good thing, he demonstrates this by picking up. His name is [[Eliac\|Eliac]].
+Human like with robes which cover his hands, it looks like there are tentacles under. He has no ears. It looks like he's selling demon ichor. What can you use demon ichor for, a war machine speed boost, should you desire a change of pace in terms of your parents flesh warping can be a good thing, he demonstrates this by picking up. His name is [[People and Orgs/People/Eliac\|Eliac]].
 
 ### Cat
-A woman with light brown skin, it looks like she has barber's equipment. She has a cat in the shop. Her name is [[Bernie\|Bernie the Barber]] the barber
+A woman with light brown skin, it looks like she has barber's equipment. She has a cat in the shop. Her name is [[People and Orgs/People/Bernie\|Bernie the Barber]] the barber
 
 ## Beer Purifying
 - We make the beer
@@ -21,16 +21,16 @@ A woman with light brown skin, it looks like she has barber's equipment. She has
 		- "Listen up. Your archduchess has a task for you all. This man is wanted dead, bring his head to my forge, [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]] or a warcheif." The man in the image is [[People and Orgs/People/Guts\|Guts]]. Multiple posters are placed around the camp. He comes over to me, looks me up and down "Huh, what a joke." Before leaving he gets a scroll from [[People and Orgs/People/Mahadi\|Mahadi]]'s tent
 ## Shops 2
 ### Contracts and Couriers 
-He is [[Fetala\|Fetala]], he has a few imp servants behind him. "I can take care of any of your courier needs, as well as any notary needs. I can look over contracts" 
+He is [[People and Orgs/People/Fetala\|Fetala]], he has a few imp servants behind him. "I can take care of any of your courier needs, as well as any notary needs. I can look over contracts" 
 
 ### Salamanders
 There's an anvil symbol above them. They only speak infernal, but it seems like they can repair war machines and they sell weapons. "That's Slag Skids and Rachs" 
 
 ### Fortune Teller
-Woman with horns and a tail, obviously fiendish. She has some trinkets and monster parts, and some vials behind her. Behind her counter she has a round table with an orb. "What brings you all to [[Mistress Miranda\|Mistress Miranda]]'s shop" She sells baubles and trinkets, but mainly she helps lost should find their way to their true path. She offers your fortune for a soul coin, and you get the bauble with it. 
+Woman with horns and a tail, obviously fiendish. She has some trinkets and monster parts, and some vials behind her. Behind her counter she has a round table with an orb. "What brings you all to [[People and Orgs/People/Mistress Miranda\|Mistress Miranda]]'s shop" She sells baubles and trinkets, but mainly she helps lost should find their way to their true path. She offers your fortune for a soul coin, and you get the bauble with it. 
 
 ### Magot Man
-An old hobgoblin stands in front of a cage of soul larvae. [[Zanith\|Zanith]]. the larvae are used for food, making soul coins, 
+An old hobgoblin stands in front of a cage of soul larvae. [[People and Orgs/Zanith\|Zanith]]. the larvae are used for food, making soul coins, 
 
 ## Fey and Bras
 ## [[People and Orgs/PCs/Lane Wayne\|Lane]] Eavesdrops

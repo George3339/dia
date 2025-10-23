@@ -36,7 +36,7 @@
 - Scroll of Remove Curse 
 - A vial of water from the [[Places/Avernus/River Styx\|River Styx]]
 - Orb of Dragonkind
-- Winged amulet
+- [[Inventory/Amulet of Transportation\|Amulet of Transportation]]
 
 - 2 Vials of acid
 - A small ring (Ring of protection) (Curse: While attuned you forget common)

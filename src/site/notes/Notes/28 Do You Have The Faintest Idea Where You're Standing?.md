@@ -5,7 +5,7 @@
 ---
 
 
-*I now know it is the devil [[Mizora\|Mizora]] who has my lamp. [[People and Orgs/People/Guts\|Guts]] has left us and we are now going to where Demons spawn to hunt down *
+*I now know it is the devil [[People and Orgs/Mizora\|Mizora]] who has my lamp. [[People and Orgs/People/Guts\|Guts]] has left us and we are now going to where Demons spawn to hunt down *
 
 ---
 
@@ -55,26 +55,26 @@ soul coins
 
 # The Helm and Sword
 The cracked hem and sword of a titan protrudes from the ground of avernus. A spherical stone of the sword's pommel still gleams with scarlet radiance
-- The spine devil that is in the helm is named [[Uldrach\|Uldrach]] 
+- The spine devil that is in the helm is named [[People and Orgs/Uldrach\|Uldrach]] 
 	- The queens blood turns him back
 		- Tiamat's blood
 			- Spill diamat's blood on the ground
-			- [[Archon the Cruel\|Archon the Cruel]] has tiamat's blood
+			- [[People and Orgs/Archon the Cruel\|Archon the Cruel]] has tiamat's blood
 	- The pommel, the orb
 		- It's a dragon orb, he hands it to us
-	- Where is [[Archon the Cruel\|Archon the Cruel]]
+	- Where is [[People and Orgs/Archon the Cruel\|Archon the Cruel]]
 		- Dragons big tower
 
 # On the road
 4 large war machines aproch us
 - They are loaded with hobgoblins
-- At the head of the group is a large horned devil![Pasted image 20250811010657.png|300](/img/user/Pasted%20image%2020250811010657.png)
+- At the head of the group is a large horned devil![Pasted image 20250811010657.png|300](/img/user/z%20Photos/Pasted%20image%2020250811010657.png)
 	- [[People and Orgs/People/Lulu\|Lulu]] flinches and shakes at the sight of him
 		- Who was that
-			- "I think he's called [[Bitterbreath\|Bitterbreath]] he's a really scary guy, really powerful devil and he's fucked the way he fights. i don't remeber too much, just that he was very very vicious"
+			- "I think he's called [[People and Orgs/Bitterbreath\|Bitterbreath]] he's a really scary guy, really powerful devil and he's fucked the way he fights. i don't remeber too much, just that he was very very vicious"
 - The person tailing us much loser
 	- Someone next to the person is flying
-	- This is [[Karlach\|Karlach]]
+	- This is [[People and Orgs/People/Karlach\|Karlach]]
 	- I eat a pear in anticipation of the fight (Speak with animals for three hours)
 
 # A Lake of Boiling Blood

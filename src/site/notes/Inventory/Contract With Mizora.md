@@ -7,7 +7,7 @@
 
   
 
-KNOW ALL CREATURES, BOTH MORTAL AND IMMORTAL, that upon this day, within the flaming dominion of [[Places/Avernus/Avernus\|Avernus]], First of the Nine Hells, an agreement is herein drafted and set forth between [[Mizora\|Mizora]], Advocate of the Pit, duly invested with infernal authority and sovereign rights of compact (hereinafter referred to as “[[Mizora\|the Infernal Patron]]”), and [[People and Orgs/PCs/Eamonn\|Eamonn Chrysocolla]] (hereinafter referred to as “[[People and Orgs/PCs/Eamonn\|the Bound Party]]”).
+KNOW ALL CREATURES, BOTH MORTAL AND IMMORTAL, that upon this day, within the flaming dominion of [[Places/Avernus/Avernus\|Avernus]], First of the Nine Hells, an agreement is herein drafted and set forth between [[People and Orgs/Mizora\|Mizora]], Advocate of the Pit, duly invested with infernal authority and sovereign rights of compact (hereinafter referred to as “[[People and Orgs/Mizora\|the Infernal Patron]]”), and [[People and Orgs/PCs/Eamonn\|Eamonn Chrysocolla]] (hereinafter referred to as “[[People and Orgs/PCs/Eamonn\|the Bound Party]]”).
 
   
 
@@ -23,7 +23,7 @@ b. Transfer of Patronage: Thereafter, [[People and Orgs/PCs/Eamonn\|the Bound Pa
 
 c. Lantern Custody: Upon the ==satisfactory fulfillment of obligations defined in this Compact==, the Infernal Patron shall relinquish custody and ownership of the Lantern of the Dao into the possession of the Bound Party.
 
-d. Safeguard of Kin: Until such time as [[People and Orgs/PCs/Eamonn\|the Bound Party]] departs the Nine Hells, or until a formal discussion has been undertaken regarding the liberation of his family ==after the [[Sword of Zariel\|Sword of Zariel]] is accounted for==, the Infernal Patron shall ensure the continued safety, preservation, and non-destruction of the Bound Party’s family, though not necessarily their freedom.
+d. Safeguard of Kin: Until such time as [[People and Orgs/PCs/Eamonn\|the Bound Party]] departs the Nine Hells, or until a formal discussion has been undertaken regarding the liberation of his family ==after the [[Magic Items not owned/Sword of Zariel\|Sword of Zariel]] is accounted for==, the Infernal Patron shall ensure the continued safety, preservation, and non-destruction of the Bound Party’s family, though not necessarily their freedom.
 
 e. Conditional Redemption Clause: At a time and circumstance of the Infernal Patron’s sole determination, and upon the fulfillment of further covenants not presently enumerated but subject to future negotiation, the Bound Party shall be granted opportunity to secure the liberation of his family from ==bondage, damnation, or servitude.==
 
@@ -33,19 +33,19 @@ e. Conditional Redemption Clause: At a time and circumstance of the Infernal Pat
 
   
 
-[[People and Orgs/PCs/Eamonn\|the Bound Party]] pledges perpetual loyalty to [[Mizora\|the Infernal Patron]], to act in her interests with diligence, zeal, and discretion.
+[[People and Orgs/PCs/Eamonn\|the Bound Party]] pledges perpetual loyalty to [[People and Orgs/Mizora\|the Infernal Patron]], to act in her interests with diligence, zeal, and discretion.
 
   
 
-Minor Services: At [[Mizora\|the Infernal Patron]]’s request, the Bound Party shall undertake sundry tasks, errands, and assignments. While these shall ordinarily be subject to mutual agreement, the Infernal Patron reserves the right to impose, without recourse, up to three (3) such compulsory services during the term of this Compact, to be executed faithfully and without delay, refusal constituting breach.
+Minor Services: At [[People and Orgs/Mizora\|the Infernal Patron]]’s request, the Bound Party shall undertake sundry tasks, errands, and assignments. While these shall ordinarily be subject to mutual agreement, the Infernal Patron reserves the right to impose, without recourse, up to three (3) such compulsory services during the term of this Compact, to be executed faithfully and without delay, refusal constituting breach.
 
   
 
-Prohibitive Clause ([[Sword of Zariel\|Sword of Zariel]]): Under no circumstance shall the Bound Party allow, permit, assist, or suffer his satyr companion or dwarf companion to claim or wield the [[Sword of Zariel\|Sword of Zariel]]. Willful prevention of this outcome is deemed a material condition of this Compact.
+Prohibitive Clause ([[Magic Items not owned/Sword of Zariel\|Sword of Zariel]]): Under no circumstance shall the Bound Party allow, permit, assist, or suffer his satyr companion or dwarf companion to claim or wield the [[Magic Items not owned/Sword of Zariel\|Sword of Zariel]]. Willful prevention of this outcome is deemed a material condition of this Compact.
 
   
 
-Audience Mandate: The Bound Party, together with his companions, shall ensure an audience with [[People and Orgs/Deities and Beings of Power/Bel\|Bel]], Pit Fiend of Avernus, prior to the recovery or wielding of the aforementioned [[Sword of Zariel\|Sword of Zariel]]. This clause admits of no deviation, delay, or avoidance.
+Audience Mandate: The Bound Party, together with his companions, shall ensure an audience with [[People and Orgs/Deities and Beings of Power/Bel\|Bel]], Pit Fiend of Avernus, prior to the recovery or wielding of the aforementioned [[Magic Items not owned/Sword of Zariel\|Sword of Zariel]]. This clause admits of no deviation, delay, or avoidance.
 
   
 

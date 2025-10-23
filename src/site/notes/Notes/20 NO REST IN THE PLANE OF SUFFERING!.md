@@ -46,7 +46,7 @@ The night at the top of the hill is awake, being eaten live by the Sturges that 
 - I cannot drink such things (water) I am eternally cursed
 - Detect taughts
 	- Surface: I wish I could die. Most of his surface thoughts are plagued by his desire to end his suffering. He thinks a-lot about his pain and wallowing the past. He thinks about a battle. 
-	- What do you know of the [[Sword of Zariel\|Sword of Zariel]]?
+	- What do you know of the [[Magic Items not owned/Sword of Zariel\|Sword of Zariel]]?
 		- Zariel's weapon was powerful, formidible and seccond to no devil and demon in her path. She had it when I left.
 		- Do you see her sword here?
 		- Surface: I chose this, it was the only way to attone for my sins. If only to give the years in hopes that Lethander's mercy will reach me one day.

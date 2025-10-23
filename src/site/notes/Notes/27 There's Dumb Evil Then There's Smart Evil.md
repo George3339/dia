@@ -28,7 +28,7 @@
 	- I killed a devil with it and it glowed bright red up until the moment he took his last breath
 	- He's about to tell me about the amulet and he is interrupted as the spirits begin to rise
 	- Where is the lamp
-		- The lamp is in the hands of a devil names [[Mizora\|Mizora]]
+		- The lamp is in the hands of a devil names [[People and Orgs/Mizora\|Mizora]]
 			- She tricked Guts and ended up greeting the lamp in the prosess, same time red ruth managed to land 
 	- Why did you buy the lamp in the first place
 		- I thought there was a genie in it. if there is he didn't pop out

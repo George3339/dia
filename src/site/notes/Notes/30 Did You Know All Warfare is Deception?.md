@@ -6,7 +6,7 @@
 ---
 
 
-*A draft of my contract in hand we stand to speak with the Wizard [[Mordenkainen\|Mordenkainen]] again. Rats flow from our bag of holding as it is emptied.*
+*A draft of my contract in hand we stand to speak with the Wizard [[People and Orgs/Mordenkainen\|Mordenkainen]] again. Rats flow from our bag of holding as it is emptied.*
 
 ---
 
@@ -28,7 +28,7 @@
 ### [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]]
 You are floating in almost water, but it isn't wet. You hear this agressive folding shimering (agresive glommer sounds). As you open your eyes you see a massive glitching optical illusion, like colour and light folding in a kalidascope. There is a strong warm light from the centre that refracts off the rest of the pattern. It feels like the sun, with flares of red and green. 20 Arcana, it feels like you are observing it. He tries to call the star to him like he does with he small one, it feels like the weight of it is two much, he manages to slightly deform it before it returns to its normal shape.
 
-![Pasted image 20250907211432.png](/img/user/Pasted%20image%2020250907211432.png)
+![Pasted image 20250907211432.png](/img/user/z%20Photos/Pasted%20image%2020250907211432.png)
 
 ## [[People and Orgs/PCs/Eamonn\|Eamonn Chrysocolla]]
 
@@ -63,8 +63,8 @@ The command word is Vecna
 - Cant be crmed or frightened
 - Disadvantage on anth saving throw or ability check using con or str
 - Cha goes down by 2
-### Scrying on [[Mizora\|Mizora]]
-I see [[Mizora\|Mizora]] walking through a hallway. As she comes to a room and opens the door. In the room there is A crystal ball on a table and a hole in the wall for a window. Outside I can see what looks like avernus. She notices the sensor orb. She chuckles and smiles. "I'd really rather save that spell." She leans over the table and attempts to dispel the scrying and succeeds. 
+### Scrying on [[People and Orgs/Mizora\|Mizora]]
+I see [[People and Orgs/Mizora\|Mizora]] walking through a hallway. As she comes to a room and opens the door. In the room there is A crystal ball on a table and a hole in the wall for a window. Outside I can see what looks like avernus. She notices the sensor orb. She chuckles and smiles. "I'd really rather save that spell." She leans over the table and attempts to dispel the scrying and succeeds. 
 
 - Identify the Secret Juice
 	- It's weird but strong
