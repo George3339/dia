@@ -48,7 +48,7 @@ Lane clarifies if he will be gaining anything from doing these targets, and Kele
 - I think of Donkus
 - I think of Eamonn
 - I think of Bras
-- I think of Paladin danse
+- I think of [[People and Orgs/Deities and Beings of Power/Devil of Pain\|Paladin Danse]]
 - It goes down and levels
 - we stare at the embodyment of evil in front of us, as we do we get tunnel vision, forgetting who is next to us. 
 	- Before you can look around the scale shakes and [[People and Orgs/Deities and Beings of Power/Kelemvor\|Kelemvor]] goes "So close"

@@ -74,7 +74,7 @@ A cult worshipping the evil dragon goddess [[People and Orgs/Deities and Beings 
 
 **Other Notes**
 - We have seen a dragon on our way to [[Places/Candlekeep\|Candlekeep]] as well as in [[Places/Avernus/Avernus\|Avernus]]. The dragon on out way to Candlekeep was a white dragon with a broken metal shackle around it's neck. 
-- We have been told that there are some dragons in the skull like thing on the top left of our map by [[People and Orgs/People/Paladin Danse\|Paladin Danse]].
+- We have been told that there are some dragons in the skull like thing on the top left of our map by [[People and Orgs/Deities and Beings of Power/Devil of Pain\|Paladin Danse]].
 - [[People and Orgs/Uldrach\|Uldrach]]
 
 ## The Lamp and Guts
@@ -104,6 +104,8 @@ When he first showed up he was small, as he died over and over he has progressiv
 4. He ambushes us on our way down the chains from [[Places/Eltaurel/Elturel\|Elturel]]. When he sees me wearing the same amulet he is he says "What? You!? I will not accept that!!!". He gets pushed off the chain but grows wings to fly. I steal his crimson amulet of his corpse before later selling it to [[People and Orgs/People/Mad Maggie\|Mad Maggie]]. 
 5. He ambushes us as we are resting at Mad Maggie's, holding a knife to Lulu's throat. Here is where he first binds one of us ([[People and Orgs/PCs/Eamonn\|People and Orgs/PCs/Eamonn]]) to his forced contract after collecting all of our names.  To enact the contract he seems to need to clap his hands together.
 He wants and not has all of our names. He seems to be able to use them to force us into a contract which binds us to him, making the one bound be inflicted with any wound inflicted onto Pain
+
+
 
 </div></div>
 

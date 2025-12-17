@@ -5,6 +5,11 @@
 [[Notes/🧵 Threads\|🧵 Threads]]
 
 # Current Quest
+
+We have confronted [[People and Orgs/Archon the Cruel\|Archon the Cruel]] and [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]] hass successfully spilled Tiamat's Blood in [[Places/Avernus/Avernus\|Avernus]].  [[People and Orgs/Uldrach\|Uldrach]] Has presumably returned to his titan form. With his blood we can free the Dao [[People and Orgs/People/Ralzala\|Ralzala]] from her contract with [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]] so that she can provide us an audience with the Forgemaster of Avernus, [[People and Orgs/Deities and Beings of Power/Bell\|Bell]]. It has been assured to us by [[People and Orgs/People/Ralzala\|Ralzala]] that Bell should know where the sword is. (if not he may be powerful patron/ally). 
+
+## Past Summaries
+
 We are crossing the [[Places/Avernus/River Styx\|River Styx]] to retrieve a vial of  [[People and Orgs/Deities and Beings of Power/Tiamat\|Tiamat]]'s Blood from [[People and Orgs/Archon the Cruel\|Archon the Cruel]]. We are doing this so we can spill Tiamat's Blood in [[Places/Avernus/Avernus\|Avernus]] and return [[People and Orgs/Uldrach\|Uldrach]] to his titan form. With his blood we can free the Dao [[People and Orgs/People/Ralzala\|Ralzala]] from her contract with [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]] so that she can provide us an audience with the Forgemaster of Avernus, [[People and Orgs/Deities and Beings of Power/Bell\|Bell]].
 
 # Characters 
@@ -45,6 +50,12 @@ We are crossing the [[Places/Avernus/River Styx\|River Styx]] to retrieve a vial
 [[Notes/29 It Wouldn't Be A Game If You Knew The Ending\|29 It Wouldn't Be A Game If You Knew The Ending]]
 [[Notes/30 Did You Know All Warfare is Deception?\|30 Did You Know All Warfare is Deception?]]
 [[Notes/31 You Know Armies Need Communication...\|31 You Know Armies Need Communication...]]
+[[Notes/32 THE NOBLE ACTIONS OF FEAR AND DOUBT...\|32 THE NOBLE ACTIONS OF FEAR AND DOUBT...]]
+[[Notes/33 EXTERMINATE EVERY LAST ONE!\|33 EXTERMINATE EVERY LAST ONE!]]
+[[Notes/34 One Selfless Act Sparks Another...\|34 One Selfless Act Sparks Another...]]
+[[Notes/35 Did You Know a Soul Can Change\|35 Did You Know a Soul Can Change]]
+[[Notes/36 Trust Must be Tested\|36 Trust Must be Tested]]
+
 
 # Inventory
 ## [[Inventory/Party Inventory\|Party Inventory]]

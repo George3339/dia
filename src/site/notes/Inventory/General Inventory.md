@@ -10,7 +10,7 @@
 - EP: 
 - SP: 
 - CP: 32
-- Soul coins: 5
+- Soul coins: 1
 # Weapons and Armour
 - Light Crossbow
 - 20 Bolts
@@ -19,7 +19,6 @@
 - [[Inventory/Magical Items/Attuned/Belt of Dwarvenkind\|Belt of Dwarvenkind]]
 - +1 Arcane Focus
 - [[Inventory/Magical Items/Attuned/Wand of Lightning Bolts\|Wand of Lightning Bolts]]
-- Glamourweave Cloak
 # Dungeoneer's Pack
 - Crowbar
 - Hammer
@@ -32,24 +31,15 @@
 - Vial of poison (poison shot)
 - [[Inventory/Magical Items/Yellow Elemental Gem\|Yellow Elemental Gem]]
 - 3 bottles of Demon Ichor 
-- 1 sapphire worth 300 GP
 - Scroll of Remove Curse 
 - A vial of water from the [[Places/Avernus/River Styx\|River Styx]]
 - Orb of Dragonkind
-- [[Inventory/Amulet of Transportation\|Amulet of Transportation]]
-
 - 2 Vials of acid
 - A small ring (Ring of protection) (Curse: While attuned you forget common)
-- A bag of devouring
 - Helm of Torm
 - bottled breath
-- Stone with blue specks and black scales
-	- *Identify:* Hearthstone, attunement required, must be a fiend
-- a magical looking bag
-	- *Identify:* Soul Bag, attunement required, must be a fiend
 
 # Miscellaneous 
-- 2 Vials of Holy Water
 - Shovel
 - Iron Pot
 - 2 Manacles
@@ -62,6 +52,7 @@
 - 2 Manacles
 - Abishai Longsword
 - Skeleton Minotaur Horn
+- Pain's talisman
 
 
 

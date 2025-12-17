@@ -8,7 +8,7 @@
 - About [[People and Orgs/Deities and Beings of Power/Devil of Pain\|Pain]]'s contract ability
 	- That's odd. It sort of breaks the rules, the non consensual aspect of it
 ## Paladin of Tyr
-[[People and Orgs/People/Paladin Danse\|Paladin Danse]] 
+[[People and Orgs/Deities and Beings of Power/Devil of Pain\|Paladin Danse]] 
 - He is searching for a way to break the chains
 - Locations he points out
 	- [[People and Orgs/Deities and Beings of Power/Bel\|Bel]]'s Forge
@@ -16,9 +16,9 @@
 	- I don't know what the floating things are
 - He's also sensed some magical chatter cluttering the air, similar to the sending interference
 	- It's possible the devils have a telapathic sort of network
-- As I'm showing him lacations it seems like valuable info to him
-- About my neclace
-	- That is an odd trinket, quite countering to your ensemble
+- As I'm showing him locations it seems like valuable info to him
+- About my necklace
+	- That is an odd trinket, quite counter to your ensemble
 
 # Ambush
 - Loot

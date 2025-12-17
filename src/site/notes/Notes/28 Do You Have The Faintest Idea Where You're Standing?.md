@@ -80,7 +80,7 @@ The cracked hem and sword of a titan protrudes from the ground of avernus. A sph
 # A Lake of Boiling Blood
 An iron tower rises on an island over a lake of boiling blood, Red lightening crackles from two spires of the tower
 
--  [[People and Orgs/People/Paladin Danse\|Paladin Danse]] is waiting with others in front of the tower
+-  [[People and Orgs/Deities and Beings of Power/Devil of Pain\|Paladin Danse]] is waiting with others in front of the tower
 	- He came across a powerful magic item recently, it has and equally powerful curse. [[People and Orgs/People/Mahadi\|Mahadi]] was demanding a exobetant price to de curse it.
 	- He wants to steal what he uses to de curse items
 	- He found a belt of giant strength, when you put it on you loose all feeling below your neck 

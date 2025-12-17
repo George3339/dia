@@ -52,7 +52,7 @@
 	- He also shows me a dream. I get a slightly pleasent feeling like being eveloped wituh warm water. As the eyes open I am inside a magical soup, like being encased in the weave. I see Kyma try to cast a spell, draw from the magic and it fails as the dream ends. 
 ### Fey Appears in Front of Us
 - After their conversation [[People and Orgs/PCs/Bras\|Bras]] has another rune in infernal on his back
-### [[People and Orgs/People/Paladin Danse\|Paladin Danse]]
+### [[Paladin Danse\|Paladin Danse]]
 - He looked at the map  and then gave a little fairwell to us with a prayer is thing to torm.
 
 ## While we Rest

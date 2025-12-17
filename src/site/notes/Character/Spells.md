@@ -214,81 +214,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 **_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
 
-## Summon Undead
-
-Source: Tasha's Cauldron of Everything
-
-_3rd-level necromancy_
-
-**Casting Time:** 1 action  
-**Range:** 90 feet  
-**Components:** V, S, M (a gilded skull worth at least 300 gp)  
-**Duration:** Concentration, up to 1 hour
-
-You call forth an undead spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Undead Spirit stat block. When you cast the spell, choose the creature’s form: Ghostly, Putrid, or Skeletal. The spirit resembles an undead creature with the chosen form, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
-
-The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.
-
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell’s level appears in the stat block.
-
-**_Spell Lists._** [Warlock (Optional)](https://dnd5e.wikidot.com/spells:warlock), [Wizard (Optional)](https://dnd5e.wikidot.com/spells:wizard)
-
-| Undead Spirit                                                                                                                                                                                                                                                                                                                          |         |         |        |         |        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------- | ------ | ------- | ------ |
-| _Medium undead_                                                                                                                                                                                                                                                                                                                        |         |         |        |         |        |
-| **Armor Class:** 11 + the level of the spell (natural armor)                                                                                                                                                                                                                                                                           |         |         |        |         |        |
-| **Hit Points:** 30 (Ghostly and Putrid only) or 20 (Skeletal only) + 10 for each level of the spell above 3rd                                                                                                                                                                                                                          |         |         |        |         |        |
-| **Speed:** 30 ft., fly 40 ft. (hover) (Ghostly only)                                                                                                                                                                                                                                                                                   |         |         |        |         |        |
-| STR                                                                                                                                                                                                                                                                                                                                    | DEX     | CON     | INT    | WIS     | CHA    |
-| 12 (+1)                                                                                                                                                                                                                                                                                                                                | 16 (+3) | 15 (+2) | 4 (−3) | 10 (+0) | 9 (−1) |
-| **Damage Immunities:** necrotic, poison                                                                                                                                                                                                                                                                                                |         |         |        |         |        |
-| **Condition Immunities:** exhaustion, frightened, paralyzed, poisoned                                                                                                                                                                                                                                                                  |         |         |        |         |        |
-| **Senses:** darkvision 60 ft., passive Perception 10                                                                                                                                                                                                                                                                                   |         |         |        |         |        |
-| **Languages:** understands the languages you speak                                                                                                                                                                                                                                                                                     |         |         |        |         |        |
-| **Challenge:** —                                                                                                                                                                                                                                                                                                                       |         |         |        |         |        |
-| **Proficiency Bonus:** equals your bonus                                                                                                                                                                                                                                                                                               |         |         |        |         |        |
-| **_Festering Aura (Putrid Only)._** Any creature, other than you, that starts its turn within 5 feet of the spirit must succeed on a Constitution saving throw against your spell save DC or be poisoned until the start of its next turn.                                                                                             |         |         |        |         |        |
-| **_Incorporeal Passage (Ghostly Only)._** The spirit can move through other creatures and objects as if they were difficult terrain. If it ends its turn inside an objects, it is shunted to the nearest unoccupied space and takes 1d10 force damage for every 5 feet traveled.                                                       |         |         |        |         |        |
-| Actions                                                                                                                                                                                                                                                                                                                                |         |         |        |         |        |
-| **_Multiattack._** The spirit makes a number of attacks equal to half this spell’s level (rounded down).                                                                                                                                                                                                                               |         |         |        |         |        |
-| **_Deathly Touch (Ghostly Only)._** _Melee Weapon Attack:_ your spell attack modifier to hit, reach 5 ft., one creature. _Hit:_ 1d8 + 3 + the spell’s level necrotic damage, and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of the undead until the end of the target’s next turn. |         |         |        |         |        |
-| **_Grave Bolt (Skeletal Only)._** _Ranged Spell Attack:_ your spell attack modifier to hit, range 150 ft., one target. _Hit:_ 2d4 + 3 + the spell’s level necrotic damage.                                                                                                                                                             |         |         |        |         |        |
-| **_Rotting Claw (Putrid Only)._** _Melee Weapon Attack:_ your spell attack modifier to hit, reach 5 ft., one target. _Hit:_ 1d6 + 3 + the spell’s level slashing damage. If the target is poisoned, it must succeed on a Constitution saving throw against your spell save DC or be paralyzed until the end of its next turn.          |         |         |        |         |        |
-
-## Thunder Step
-
-Source: Xanathar's Guide to Everything
-
-_3rd-level conjuration_
-
-**Casting Time:** 1 action  
-**Range:** 90 ft  
-**Components:** V  
-**Duration:** Instantaneous
-
-You teleport yourself to an unoccupied space you can see within range. Immediately after you disappear, a thunderous boom sounds, and each creature within 10 feet of the space you left must make a Constitution saving throw, taking 3d10 thunder damage on a failed save, or half as much damage on a successful one. The thunder can be heard from up to 300 feet away.
-
-You can bring along objects as long as their weight doesn’t exceed what you can carry. You can also teleport one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell, and there must be an unoccupied space within 5 feet of your destination space for the creature to appear in; otherwise, the creature is left behind.
-
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d10 for each slot level above 3rd.
-
 # Level 4
-
-## Sickening Radiance
-
-_4th-level evocation_
-
-**Casting Time:** 1 action  
-**Range:** 120 feet  
-**Components:** V, S  
-**Duration:** Concentration, up to 10 minutes
-
-Dim, greenish light spreads within a 30-foot-radius sphere centered on a point you choose within range. The light spreads around corners, and it lasts until the spell ends.
-
-When a creature moves into the spell’s area for the first time on a turn or starts its turn there, that creature must succeed on a Constitution saving throw or take 4d10 radiant damage, and it suffers one level of exhaustion and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being invisible. The light and any levels of exhaustion caused by this spell go away when the spell ends.
-
-**_Spell Lists._** [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
-
 ## Shadow Of Moil
 
 _4th-level necromancy_
@@ -317,3 +243,68 @@ You unleash a shimmering lance of psychic power from your forehead at a creature
 The target must make an Intelligence saving throw. On a failed save, the target takes 7d6 psychic damage and is incapacitated until the start of your next turn. On a successful save, the creature takes half as much damage and isn’t incapacitated.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d6 for each slot level above 4th.
+
+# Level 5
+
+## Far Step
+_5th-level conjuration_
+
+**Casting Time:** 1 bonus action  
+**Range:** Self  
+**Components:** V  
+**Duration:** Concentration, up to 1 minute
+
+You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a bonus action to teleport in this way again.
+
+## Hold Monster
+
+_5th-level enchantment_
+
+**Casting Time:** 1 action  
+**Range:** 90 feet  
+**Components:** V, S, M (a small, straight piece of iron)  
+**Duration:** Concentration, up to 1 minute
+
+Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
+
+**_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
+
+## Synaptic Static
+
+_5th-level enchantment_
+
+**Casting Time:** 1 action  
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
+
+You choose a point within range and cause psychic energy to explode there. Each creature in a 20-foot-radius sphere centered on that point must make an Intelligence saving throw. A creature with an Intelligence score of 2 or lower can’t be affected by this spell. A target takes 8d6 psychic damage on a failed save, or half as much damage on a successful one.
+
+After a failed save, a target has muddled thoughts for 1 minute. During that time, it rolls a d6 and subtracts the number rolled from all its attack rolls and ability checks, as well as its Constitution saving throws to maintain concentration. The target can make an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+**_Spell Lists._** [Bard](http://dnd5ed.wikidot.com/spells:bard), [Sorcerer](http://dnd5ed.wikidot.com/spells:sorcerer), [Warlock](http://dnd5ed.wikidot.com/spells:warlock), [Wizard](http://dnd5ed.wikidot.com/spells:wizard)
+
+## Wall of Stone
+
+Source: Player's Handbook
+
+_5th-level evocation_
+
+**Casting Time:** 1 action  
+**Range:** 120 feet  
+**Components:** V, S, M (a small block of granite)  
+**Duration:** Concentration, up to 10 minutes
+
+A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
+
+If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
+
+The wall can have any shape you desire, though it can’t occupy the same space as a creature or object. The wall doesn’t need to be vertical or resting on any firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this spell to bridge a chasm or create a ramp.
+
+If you create a span greater than 20 feet in length, you must halve the size of each panel to create supports. You can crudely shape the wall to create crenellations, battlements, and so on.
+
+The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 hit points per inch of thickness. Reducing a panel to 0 hit points destroys it and might cause connected panels to collapse at the DM’s discretion.
+
+If you maintain your concentration on this spell for its whole duration, the wall becomes permanent and can’t be dispelled. Otherwise, the wall disappears when the spell ends.
+
+**_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Druid](http://dnd5e.wikidot.com/spells:druid), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Wizard](http://dnd5e.wikidot.com/spells:wizard)

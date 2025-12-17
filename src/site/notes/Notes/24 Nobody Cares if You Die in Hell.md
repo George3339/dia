@@ -31,7 +31,7 @@ They pull up on us, there is one that looks like ours but is gold plated
 ## In the Ring
 - I study the dark shard again
 	- I don't get much more info than last time. I see a glimpse of green goo pit under me as I fly through the air
-- While the others drive they see [[People and Orgs/People/Paladin Danse\|Paladin Danse]] pass by them on a war machine 
+- While the others drive they see [[People and Orgs/Deities and Beings of Power/Devil of Pain\|Paladin Danse]] pass by them on a war machine 
 ## Approaching the [[Places/Avernus/Daemon Zapper\|Daemon Zapper]]
 - There is a unicorn encased in an orb which seems to power? the zapper
 - A Dao comes out of the ground. She is [[People and Orgs/People/Ralzala\|Ralzala]]. As she emerges she casts tongues
