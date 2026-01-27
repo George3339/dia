@@ -2,7 +2,15 @@
 {"dg-publish":true,"permalink":"/notes/33-exterminate-every-last-one/"}
 ---
 
-# dd
+
+---
+
+
+*After clearing the tower of the devils that stood against us we push on.*
+
+---
+
+# Devil Tower
 On the third floor we see [[People and Orgs/People/Sunspark\|Sunspark]], he looks like he has gained some devilish traits. He wears a bronze medalion with a gold trim which bears this insignia![Pasted image 20251007210024.png|300](/img/user/z%20Photos/Pasted%20image%2020251007210024.png)
 - When asked about the medalion he responds that he got it from his clan
 	- When pushed he admits that he found the medalion
@@ -53,7 +61,7 @@ Talking about killing [[People and Orgs/People/Sunspark\|Sunspark]]
 - Prayer to my father
 	- Father, Lord of Chains, I have found and secured the lantern that was stolen from us. I have had to sacrifice much, including my connection to you, to retrieve it. I have gone to the hells for you, I have put my soul on the line for you. I have retrieved your lantern, I ask for your forgiveness, I beg for your mercy, and I praise you for your fairness. 
 - Identify on the moon sicle
-- Identify on the [[Inventory/Amulet of Transportation\|Amulet of Transportation]]
+- Identify on the [[Magic Items not owned/Amulet of Transportation\|Amulet of Transportation]]
 
 ## Shopping list
 - Powdered silver

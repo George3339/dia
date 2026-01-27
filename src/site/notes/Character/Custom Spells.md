@@ -69,6 +69,19 @@ You conjure a dust storm of composed of millions of tiny crystalline shards. A 
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the dealt increases by 2d4.
 
+### Damage Analysis
+Average damage: 15, 
+	20ft radius, DEX save for half damage, con 1 minute, area heavily obscured.
+**Average Damage of comparable spells**
+Hunger of Hadar 7+7 if failed DEX save
+	 20 ft radius, Dex save for no secondary damage, difficult terrain for duration, magical darkness in area
+Erupting Earth: 19.5
+	 20ft cube, DEX save for half damage, difficult terrain until cleared (1 min/5 feet)
+Fireball: 28
+	 20ft radius, Dex save for half damage, instantaneous 
+Call Lightning: 16.5
+	 60ft radius (5ft damage radius), DEX save for half damage, con 10 minutes
+
 ## Quicksand
 *3rd-Level Conjuration*
 **Casting Time:** 1 Action 
@@ -76,9 +89,9 @@ You conjure a dust storm of composed of millions of tiny crystalline shards. A 
 **Components:** V, S, M (A handful of sand)
 **Duration:** Concentration, up to 10 minutes
 
-You conjure a pit of quicksand at a point in range. The pit takes the form of a 20 foot radius circle centred on a point in range of sinking and moving sand. The area of the pit is considered difficult terrain. Any creature who starts their turn within the pit or enters it’s area must make a Strength Saving throw. On a failed save the creature is grappled and begins the sink into the quicksand. On a successful saving throw the creature breaks from the hold of the sand and is no longer grappled.
+You conjure a pit of quicksand at a point in range. The pit takes the form of a 20 foot radius circle of sinking and moving sand centred on a point in range . The area of the pit is considered difficult terrain. Any creature who starts their turn within the pit or enters its area must make a Strength Saving throw. On a failed save the creature is restrained and begins the sink into the quicksand. On a successful saving throw the creature breaks from the hold of the sand and is no longer restrained.
 
-Every failed saving throw increases the DC of any subsequent saving throws caused by this spell by 1. When a creature fails a combined total of 3 saving throws it has sunk into the sand completely and begins to take damage as the sand squeezes the life out of them. On the turn that the creature fails the 3rd saving throw and every subsequent one until it succeeds or the spell ends the creature takes 6d8 bludgeoning damage.
+Every failed saving throw increases the DC of any subsequent saving throws caused by this spell by 1. When a creature fails a combined total of 3 saving throws it has sunk into the sand completely and begins to take damage as the sand squeezes the life out of them. At the begining of the turn that the creature fails the 3rd saving throw and every subsequent turn until it succeeds or the spell ends, the creature takes 6d8 bludgeoning damage and is blinded as well as restrained and does not have access to air to breathe.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the radius of the circle increases by 10 feet for each level above 3rd.
 
@@ -93,7 +106,28 @@ With this spell, the caster creates a suit of armour around themselves composed 
 
 The caster can end this spell at any time using their reaction, and upon its end, either in this manner or when the spell expires, the armour of earth bursts into a brief cloud of sand and dirt in a 5-foot radius sphere around the caster; all those caught in the area other than the caster must make a Constitution saving throw versus the caster’s spell save DC to avoid being blinded until the end of their next turn. Creatures that do not rely on eyes for sight are immune to the blinding effect of this spell.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the caster gains advantage on concentration checks to maintain the spell.
+**_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the caster gains +1 to concentration checks to maintain the spell per level above 4th.
+
+## Wall of Crystals
+
+*5th-level evocation*
+
+**Casting Time:** 1 action  
+**Range:** 120 feet  
+**Components:** V, S, M (a pinch of powder made by crushing a clear gemstone)  
+**Duration:** Concentration, up to 10 minutes
+
+A wall of sharp shimmering crystal erupts from the ground. The wall is 6 inches thick and is composed of six 10-foot-by-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
+
+If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
+
+The wall can have any shape you desire, though it can’t occupy the same space as a creature or object. The wall doesn’t need to be vertical or resting on any firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this spell to bridge a chasm or create a ramp.
+
+The wall is an object made of sharp but brittle crystal that can be damaged and thus breached. Each panel has AC 13 and 10 hit points per inch of thickness. Reducing a panel to 0 hit points destroys it and might cause connected panels to collapse at the DM’s discretion.
+
+On one side of the wall, selected by you when you cast this spell, the ground erupts into small knifelike crystal shards. The area 15 feet from this side of the wall is considered difficult terrain. Each creature that ends its turn within 15 feet of that side of the wall must make a dexterity saving throw, on a failed save the creature takes 8d4,  or half as much damage on a successful save. A creature makes the same saving throw when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage. 
+
+The crystals shatter and turn to worthless dust when the spell ends.
 
 ****
 

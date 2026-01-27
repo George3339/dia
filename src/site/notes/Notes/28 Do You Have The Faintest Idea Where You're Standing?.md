@@ -59,10 +59,10 @@ The cracked hem and sword of a titan protrudes from the ground of avernus. A sph
 	- The queens blood turns him back
 		- Tiamat's blood
 			- Spill diamat's blood on the ground
-			- [[People and Orgs/Archon the Cruel\|Archon the Cruel]] has tiamat's blood
+			- [[People and Orgs/Arkan the Cruel\|Arkan the Cruel]] has tiamat's blood
 	- The pommel, the orb
 		- It's a dragon orb, he hands it to us
-	- Where is [[People and Orgs/Archon the Cruel\|Archon the Cruel]]
+	- Where is [[People and Orgs/Arkan the Cruel\|Arkan the Cruel]]
 		- Dragons big tower
 
 # On the road

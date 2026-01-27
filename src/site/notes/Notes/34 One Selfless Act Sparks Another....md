@@ -4,6 +4,9 @@
 
 --- 
 
+
+*We reach the wandering emporium, a welcome respite in our trek to spill [[People and Orgs/Deities and Beings of Power/Tiamat\|Tiamat]]'s blood.*
+
 ---
 
 # Wandering emporium
@@ -15,7 +18,7 @@ Mahadi tells us that the race is today and the prise is
 ## Sell To Mahadi
 A bag of devouring
 2 Vials of Holy Water
-[[Inventory/Amulet of Transportation\|Amulet of Transportation]]
+[[Magic Items not owned/Amulet of Transportation\|Amulet of Transportation]]
 Glamourweave Cloak
 These are worth 4 soul coins
 

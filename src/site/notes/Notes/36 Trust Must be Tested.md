@@ -5,11 +5,11 @@
 ---
 
 
-**
+*With the actions and deceptions of [[People and Orgs/Deities and Beings of Power/Devil of Pain\|Pain]] still raw in our minds we push on to make a deal with [[People and Orgs/Arkan the Cruel\|Arkan the Cruel]].*
 
 ---
 
-# Tower of [[People and Orgs/Archon the Cruel\|Archon the Cruel]]
+# Tower of [[People and Orgs/Arkan the Cruel\|Arkan the Cruel]]
 ## The bridge
 - The tortle examines the orb of dragonkind
 	- "My lord accepts your offer" "I cn lead you to him, you must guarantee the orb to my creed. Follow me and I will take you to Archon
@@ -24,23 +24,24 @@ This colossal dragon skull against a mountainside. A tent is set up inside the s
 	- I push back, he agrees and joins us
 
 ## Inside the Tent
-[[Crull\|Crull]] goes "My lord. I have braught you five travelers who claim to serve [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]. tHEY HAVE BRAUGHT A Bargening chip"
-Archon is wearing obsidian plate armour, his left hand is green and emenating a magical aura steaming with necrotic energy. 
+[[Crull\|Crull]] goes "My lord. I have brought you five travellers who claim to serve [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]. They have brought a bargaining chip"
+Arkan is wearing obsidian plate armour, his left hand is green and emanating a magical aura steaming with necrotic energy. 
 - Next to him is a large hulking minautour, weilding two massive golden scimitar
-- Archon:" Very well. Crull you can take the orb and return to the tower. I will speak with them. I am no friend of Zariel, but I am not curently opposing her either."
+- Archon:"Very well. Crull you can take the orb and return to the tower. I will speak with them. I am no friend of [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]], but I am not currently opposing her either."
 - I place the orb on the table in the tent
-- After our offer "The orb is impressive, but for my queen's blood, i'd need a peice far more powerful to my plan"
+- After our offer "The orb is impressive, but for my queen's blood, i'd need a piece far more powerful to my plan"
 	- He turns around and stares at [[People and Orgs/People/Lulu\|Lulu]]
-	- "I need a sacrifice." "Of what kind?" "Of a virtuous soul. I detect virtue in some of you. Eamon or the dwarf, or... the Oelephant. one sacrifice for my queens blood"
+		- "I need a sacrifice." 
+		- "Of what kind?" 
+		- "Of a virtuous soul. I detect virtue in some of you. Eamon or the dwarf, or... the Oelephant. one sacrifice for my queens blood"
 	- "Bring me the unicorn, I keep the orb. You get the blood"
-	- [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]] demands to see the blood. [[People and Orgs/Archon the Cruel\|Archon the Cruel]] reaches into his armour and pulls out the vial of blood
+	- [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]] demands to see the blood. [[People and Orgs/Arkan the Cruel\|Arkan the Cruel]] reaches into his armour and pulls out the vial of blood
 		- Donkus hits it with his vine
 			- He laughs and attacks
-	- 
 ## The Battle
-- [[People and Orgs/PCs/Lane Wayne\|Lane]] successfully lands a command: flee on [[People and Orgs/Archon the Cruel\|Archon the Cruel]] 
+- [[People and Orgs/PCs/Lane Wayne\|Lane]] successfully lands a command: flee on [[People and Orgs/Arkan the Cruel\|Arkan the Cruel]] 
 - [[People and Orgs/PCs/Eamonn\|Eamonn]] casts wall of stone after the [[Inventory/Magical Items/Orb of Dragonkind\|Orb of Dragonkind]] is dropped, rescuing the orb 
-- During the battle Lulu unexpectedly casts heal on [[People and Orgs/PCs/Bras\|Bras]]
+- During the battle Lulu unexpectedly casts heal on [[People and Orgs/PCs/Bras\|Bras]] 
 	- Archon calls out "[[Asojano\|Asojano]] come to me"
 	- We leave and as we do we see archon cast a spell on the dead minautor
 	- 

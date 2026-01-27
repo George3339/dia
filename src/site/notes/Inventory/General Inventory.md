@@ -30,7 +30,7 @@
 # Valuables
 - Vial of poison (poison shot)
 - [[Inventory/Magical Items/Yellow Elemental Gem\|Yellow Elemental Gem]]
-- 3 bottles of Demon Ichor 
+- 2 bottles of Demon Ichor 
 - Scroll of Remove Curse 
 - A vial of water from the [[Places/Avernus/River Styx\|River Styx]]
 - Orb of Dragonkind
@@ -38,6 +38,7 @@
 - A small ring (Ring of protection) (Curse: While attuned you forget common)
 - Helm of Torm
 - bottled breath
+- 1 bottle of Titan blood
 
 # Miscellaneous 
 - Shovel

@@ -6,7 +6,7 @@
 ---
 
 
-*XXXXXX*
+*We have killed the brother of [[People and Orgs/People/Karlach\|Karlach]] and met the daemon [[People and Orgs/Ubelax\|Ubelax]]. We continue our trek north.*
 
 ---
 
