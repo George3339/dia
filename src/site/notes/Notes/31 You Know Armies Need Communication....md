@@ -77,7 +77,7 @@ A 30ft tall obelisk rises front he crest of the hill. A tall man in rags gesticu
 	- As [[People and Orgs/PCs/Bras\|Bras]] touches the Necrotic stone he takes 30 damage as it sucks the life out of him
 	- As [[People and Orgs/PCs/Lane Wayne\|Lane]] tocuhes the Illusion stone magic pulses from the stone as a swarm of ravens swarms around his head
 	- [[People and Orgs/People/Lulu\|Lulu]] touches the Abjuration stone and her AC goes up
-- We touch all the stones and he is still restrained. It would seem my fate stays in the hand of a sigular devil. You must go to the [[Mirror of Mephistar\|Mirror of Mephistar]] and contact [[People and Orgs/Deities and Beings of Power/Mephistopheles\|Mephistopheles]]. 
+- We touch all the stones and he is still restrained. It would seem my fate stays in the hand of a sigular devil. You must go to the [[Places/Mirror of Mephistar\|Mirror of Mephistar]] and contact [[People and Orgs/Deities and Beings of Power/Mephistopheles\|Mephistopheles]]. 
 - Lulu knows who Olantheus is
 	- He was one of the [[People and Orgs/Orgs/Hellriders\|Hellriders]] with [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]] before she fell
 # On The Road Again

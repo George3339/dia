@@ -24,7 +24,7 @@ This colossal dragon skull against a mountainside. A tent is set up inside the s
 	- I push back, he agrees and joins us
 
 ## Inside the Tent
-[[Crull\|Crull]] goes "My lord. I have brought you five travellers who claim to serve [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]. They have brought a bargaining chip"
+[[People and Orgs/People/Crull\|Crull]] goes "My lord. I have brought you five travellers who claim to serve [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]. They have brought a bargaining chip"
 Arkan is wearing obsidian plate armour, his left hand is green and emanating a magical aura steaming with necrotic energy. 
 - Next to him is a large hulking minautour, weilding two massive golden scimitar
 - Archon:"Very well. Crull you can take the orb and return to the tower. I will speak with them. I am no friend of [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]], but I am not currently opposing her either."
@@ -42,6 +42,6 @@ Arkan is wearing obsidian plate armour, his left hand is green and emanating a m
 - [[People and Orgs/PCs/Lane Wayne\|Lane]] successfully lands a command: flee on [[People and Orgs/Arkan the Cruel\|Arkan the Cruel]] 
 - [[People and Orgs/PCs/Eamonn\|Eamonn]] casts wall of stone after the [[Inventory/Magical Items/Orb of Dragonkind\|Orb of Dragonkind]] is dropped, rescuing the orb 
 - During the battle Lulu unexpectedly casts heal on [[People and Orgs/PCs/Bras\|Bras]] 
-	- Archon calls out "[[Asojano\|Asojano]] come to me"
+	- Archon calls out "[[People and Orgs/People/Asojano\|Asojano]] come to me"
 	- We leave and as we do we see archon cast a spell on the dead minautor
 	- 
