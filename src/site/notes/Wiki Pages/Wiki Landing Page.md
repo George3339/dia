@@ -47,6 +47,7 @@ We are crossing the [[Places/Avernus/River Styx\|River Styx]] to retrieve a vial
 [[Notes/25 To Be Good In Hell Is To Be Insane\|25 To Be Good In Hell Is To Be Insane]]
 [[Notes/26 The Easiest Lie is When You're Expecting it\|26 The Easiest Lie is When You're Expecting it]]
 [[Notes/27 There's Dumb Evil Then There's Smart Evil\|27 There's Dumb Evil Then There's Smart Evil]]
+[[Notes/28 Do You Have The Faintest Idea Where You're Standing?\|28 Do You Have The Faintest Idea Where You're Standing?]]
 [[Notes/29 It Wouldn't Be A Game If You Knew The Ending\|29 It Wouldn't Be A Game If You Knew The Ending]]
 [[Notes/30 Did You Know All Warfare is Deception?\|30 Did You Know All Warfare is Deception?]]
 [[Notes/31 You Know Armies Need Communication...\|31 You Know Armies Need Communication...]]
