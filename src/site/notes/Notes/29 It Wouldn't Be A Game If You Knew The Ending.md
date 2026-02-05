@@ -13,7 +13,7 @@
 # In the Tower of [[People and Orgs/Mordenkainen\|Mordenkainen]]
 
 
-- "The weave, t's not what you think, its not alive it's more like life itself. It is like water. It is life but it is everything. All magic comes from it, and all magi returns to it, like water all that touches it returns to it. It can be contaminated, tainted. No amount of conam would change it, but now because the plane has been slowly sealed off it's like pressure building. There is less water in the dam and so it gets contaminated more easily. I don't know what's causing these changes (he looks at [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]]'s eyes). And then there is [[People and Orgs/Deities and Beings of Power/Mystra\|Mystra]]. I can't contact her, she would know what's going on, or at least have an idea, as the weave is her responsibility."
+- "The weave, t's not what you think, its not alive it's more like life itself. It is like water. It is life but it is everything. All magic comes from it, and all magic returns to it, like water all that touches it returns to it. It can be contaminated, tainted. No amount of conam would change it, but now because the plane has been slowly sealed off it's like pressure building. There is less water in the dam and so it gets contaminated more easily. I don't know what's causing these changes (he looks at [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]]'s eyes). And then there is [[People and Orgs/Deities and Beings of Power/Mystra\|Mystra]]. I can't contact her, she would know what's going on, or at least have an idea, as the weave is her responsibility."
 	- "How would a deity be contacting someone on this plane if it's cut off?"
 		- It's not cut off yet. It could depend on the- well, the um, potency of the magic could be a factor. Do you think your friends are casting at a high enough level. I've made stretches, it's been a day, gods. 
 	- "Can I know what you're doing with my toe"
@@ -37,7 +37,7 @@
 	- [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]] pulls out some spice and [[People and Orgs/Mordenkainen\|Mordenkainen]] seemed interested
 	- Lane begins to try and negotiate with morty
 		- We are handed an elixir of health
-	- He also shows us some books of holy halfsetp
+	- He also shows us some boots of holy halfsetp
 - "If I don't ask you this question my friend will kill me. She told me before I left you had a lost spell, your last spell."
 	- I've made many spells, I'm not sure what she could be referring to
 		- Donkus, 24 insight: It seemed like he had a solid idea forming in his head as he went to answer and then he thought through a couple things. When he answered it was like he was actually not sure what to respond. 

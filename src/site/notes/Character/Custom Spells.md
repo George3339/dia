@@ -125,9 +125,40 @@ The wall can have any shape you desire, though it can’t occupy the same space 
 
 The wall is an object made of sharp but brittle crystal that can be damaged and thus breached. Each panel has AC 13 and 10 hit points per inch of thickness. Reducing a panel to 0 hit points destroys it and might cause connected panels to collapse at the DM’s discretion.
 
-On one side of the wall, selected by you when you cast this spell, the ground erupts into small knifelike crystal shards. The area 15 feet from this side of the wall is considered difficult terrain. Each creature that ends its turn within 15 feet of that side of the wall must make a dexterity saving throw, on a failed save the creature takes 8d4,  or half as much damage on a successful save. A creature makes the same saving throw when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage. 
+On one side of the wall, selected by you when you cast this spell, the ground erupts into small knifelike crystal shards. The area 15 feet from this side of the wall is considered difficult terrain. Each creature that ends its turn within 15 feet of that side of the wall must make a dexterity saving throw, on a failed save the creature takes 8d4,  or half as much damage on a successful save as a shifting sea of sharp crystals cuts at their feet and legs. A creature makes the same saving throw when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage. 
 
 The crystals shatter and turn to worthless dust when the spell ends.
+
+## Tunnel of Force
+
+*6th-level evocation*
+
+**Casting Time:** 1 action  
+**Range:** 120 feet  
+**Components:** V, S, M ()  
+**Duration:** Concentration, up to 10 minutes
+
+You create a tunnel made of an invisible wall of force. The tunnel is an open ended cylinder with a 10 foot radius, its length is determined by the caster's level of preparation before casting the spell.
+
+With nothing prepared, the tunnel can be a maximum of 60 feet long with up to one turn of up to 90 degrees. 
+
+If the spell is cast within 60 feet of a ritual stone attached to this spell the distance of the cylinder is increased by 30 feet and one additional turn of up to 90 degrees can be made. The same also occurs when a ritual stone linked to the path is within 30 feet of the endpoint of the cylinder.  Additionally anyone carrying a ritual stone attached to this spell may travel at breakneck speeds through this tunnel; for every 30 feet traveled in the tunnel such a creature must only expend 5 feet of movement. If there are multiple possible paths prepared only one may be chosen, the cylinder can not split. 
+
+Any creature intersected by the wall of the tunnel of force (not all creatures in the tunnel) when it is created must succeed a dexterity saving throw or take 4d8 slashing damage and be pushed either side of the wall (caster's choice), on a success the creature takes no damage and choose which side of the wall to move to. 
+A disintegrate spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
+### Tunnel of Force (Ritual)
+
+*6th-level evocation (ritual)* 
+
+**Casting Time:** 1 action  
+**Range:** 120 feet  
+**Components:** V, S, M (A gem worth 50 GP inscribed with the proper sigils)  
+**Duration:** Instantaneous 
+
+The ritual consists of imbuing a small gemstone with the power of the spell and linking it to other gemstones on the desired path. The gemstones can be hidden but are rendered unusable if blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+To be on the same path, each ritual gemstone must not be more than 30 feet from the last. 
+
 
 ****
 
