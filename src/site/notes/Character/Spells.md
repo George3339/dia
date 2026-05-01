@@ -215,20 +215,8 @@ Physical interaction with the image reveals it to be an illusion, because things
 **_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
 
 # Level 4
-## Shadow Of Moil
 
-_4th-level necromancy_
-
-**Casting Time:** 1 action  
-**Range:** Self  
-**Components:** V, S, M (an undead eyeball encased in a gem worth at least 150 gp)  
-**Duration:** Concentration, up to 1 minute
-
-Flame-like shadows wreathe your body until the spell ends, causing you to become heavily obscured to others. The shadows turn dim light within 10 feet of you into darkness, and bright light in the same area to dim light.
-
-Until the spell ends, you have resistance to radiant damage. In addition, whenever a creature within 10 feet of you hits you with an attack, the shadows lash out at that creature, dealing it 2d8 necrotic damage.
-
-## Raulothim's Psychic Lance 
+## Raulothim's Psychic Lance !!!!GARUTH FIGHT
 Source: Fizban's Treasury of Dragons
 
 _4th-level Enchantment_
@@ -308,3 +296,5 @@ The wall is an object made of stone that can be damaged and thus breached. Each 
 If you maintain your concentration on this spell for its whole duration, the wall becomes permanent and can’t be dispelled. Otherwise, the wall disappears when the spell ends.
 
 **_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Druid](http://dnd5e.wikidot.com/spells:druid), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
+
+## Wall of Light

@@ -22,8 +22,7 @@
 - Various war machine scrap parts
 - Spare tire
 - Splint Armor
-- Dragon Orb
-	- Orb of Dragonkind
+
 
 # Party Money
 

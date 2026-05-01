@@ -10,7 +10,7 @@
 - EP: 
 - SP: 
 - CP: 32
-- Soul coins: 1
+- Soul coins: 4
 # Weapons and Armour
 - Light Crossbow
 - 20 Bolts
@@ -29,8 +29,8 @@
 - 20 Caltrops
 # Valuables
 - Vial of poison (poison shot)
-- [[Inventory/Magical Items/Yellow Elemental Gem\|Yellow Elemental Gem]]
-- 2 bottles of Demon Ichor 
+- [[Magic Items not owned/Yellow Elemental Gem\|Yellow Elemental Gem]]
+- 1 bottles of Demon Ichor 
 - Scroll of Remove Curse 
 - A vial of water from the [[Places/Avernus/River Styx\|River Styx]]
 - Orb of Dragonkind
@@ -38,7 +38,7 @@
 - A small ring (Ring of protection) (Curse: While attuned you forget common)
 - Helm of Torm
 - bottled breath
-- 1 bottle of Titan blood
+- Pain's talisman
 
 # Miscellaneous 
 - Shovel
@@ -53,7 +53,7 @@
 - 2 Manacles
 - Abishai Longsword
 - Skeleton Minotaur Horn
-- Pain's talisman
+
 
 
 

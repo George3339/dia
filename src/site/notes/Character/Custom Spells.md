@@ -65,7 +65,7 @@ Upon casting the spell, the caster can choose to sacrifice a number of max HP eq
 **Components:** V, S, M (A pinch of powdered gems)
 **Duration:** Concentration, up to 1 minute 
 
-You conjure a dust storm of composed of millions of tiny crystalline shards. A 20-foot-radius 30 foot tall cylinder of swirling shining dust appears, centred on a point within range and lasting for the duration. The inside of the storm is heavily obscured. When a creature starts their turn in the storm they must make a dexterity saving throw. On a failed save the creature takes 6d4 slashing damage or half as much on a successful save. 
+You conjure a dust storm of composed of millions of tiny crystalline shards. A 20-foot-radius 30 foot tall cylinder of swirling shining dust appears, centred on a point within range and lasting for the duration. The inside of the storm is heavily obscured. When a creature enters the spell’s area for the first time on a turn or starts its turn there they must make a dexterity saving throw. On a he creature takes 6d4 slashing damage on a failed save or half as much on a successful save. 
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the dealt increases by 2d4.
 
