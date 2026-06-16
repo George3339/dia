@@ -6,11 +6,11 @@
 4 days of rations
 # Gold
 - PP: 
-- GP: 3 
+- GP: 
 - EP: 
 - SP: 
 - CP: 32
-- Soul coins: 4
+- Soul coins: 5
 # Weapons and Armour
 - Light Crossbow
 - 20 Bolts
@@ -29,9 +29,6 @@
 - 20 Caltrops
 # Valuables
 - Vial of poison (poison shot)
-- [[Magic Items not owned/Yellow Elemental Gem\|Yellow Elemental Gem]]
-- 1 bottles of Demon Ichor 
-- Scroll of Remove Curse 
 - A vial of water from the [[Places/Avernus/River Styx\|River Styx]]
 - Orb of Dragonkind
 - 2 Vials of acid
@@ -39,6 +36,7 @@
 - Helm of Torm
 - bottled breath
 - Pain's talisman
+
 
 # Miscellaneous 
 - Shovel
@@ -53,6 +51,7 @@
 - 2 Manacles
 - Abishai Longsword
 - Skeleton Minotaur Horn
+- Genie Lamp
 
 
 

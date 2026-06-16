@@ -8,7 +8,6 @@
 
 # Owned by Others
 - Scroll of Revivify 
-- Scroll of Remove Curse
 - Scroll of Ice knife
 - Scroll of Simulacrum
 - Scroll of Mass Healing Word

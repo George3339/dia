@@ -58,7 +58,7 @@ A 30ft tall obelisk rises front he crest of the hill. A tall man in rags gesticu
 - **Detect Magic:** I notice illusion magic emanating from him
 - **Detect Thoughts:** It should work, it should work, just get them to touch the stones. If it doesn't work then I'll know for sure
 - "I know someone who can lead you to the [[Magic Items not owned/Sword of Zariel\|Sword of Zariel]]"
-- **Probe:** He is desperate, he believes that it would work to free him. Mephistopheles be damned if I don't find a way out myself. Olanthius would know where the citadel is.
+- **Probe:** He is desperate, he believes that it would work to free him. Mephistopheles be damned if I don't find a way out myself. [[Olantheius\|Olantheius]] would know where the citadel is.
 - Show us your real self. 
 	- "Let me ask you something, do you oppose Zariel"
 		- A large demon with orange fur and big tusks. "I am [[People and Orgs/Ubelax\|Ubelax]] the demon, and we are not enemies" 

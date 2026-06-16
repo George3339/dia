@@ -6,6 +6,5 @@
 
 - Potion of Fire Resistance 
 - 1 Potion of Speed
-- Heart to Stone Elixir (resistance to poison until long rest) 
 - 1 potion of psionic fortitude
 - 1 Bottled Breath

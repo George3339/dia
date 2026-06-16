@@ -180,3 +180,24 @@ While wearing the boots you can cast misty step at will without expending a spel
 **Shoddy Craftsmanship:** Each time you use the boots to cast misty step roll a d12. On a 1 the boots malfunction, the spell is still cast but when you arrive at your chosen destination the boots arrive slightly misplaced, breaking your ankles. You immediately fall prone and take 2d12 force damage as your bones shatter. 
 
 
+## Soul Pipe
+Wondrous item, rarity varies
+
+This smoking pipe is made of infernal iron and is imbued with a soul. The soul is apparent in the distorted face on the outside of the pipe bowl which animates and breathlessly wails while the pipe is being smoked. The inside of the bowl appears to be the semi-emptied skull of the soul; only a now ever-burning cerebellum remains. The item's rarity is determined by the quality of the soul trapped within.
+
+Any flammable or smokable material ignites immediately when placed in the bowl of this pipe. 
+
+**Moral Cost**
+The smoke from this pipe, no matter what is burned in it, tastes and smells like brimstone and salt tears. The taste burns your throat and lingers for 1 day. Any non evil creature that smokes out of this pipe must make a DC 16?? Wisdom Saving Throw. On a failure the creature must change its alignment to evil, this effect ceases an hour after the creature last smoked from the pipe.
+
+**Inhaled Knowledge**
+As the embers burn, the knowledge and wisdom of the soul trapped within seeps into the smoke imparting divinatory visions to those who smoke from it. Immediately after having smoked from the pipe a creature may cast one spell of their choice, depending on the rarity of the item. 
+
+| Rarity                    | Spell                                                                    |
+| ------------------------- | ------------------------------------------------------------------------ |
+| Common                    | [Gift of Alacrity](https://dnd5e.wikidot.com/spell:gift-of-alacrity)     |
+| Uncommon                  | [Borrowed Knowledge](https://dnd5e.wikidot.com/spell:borrowed-knowledge) |
+| Rare                      | [Divination](https://dnd5e.wikidot.com/spell:divination)                 |
+| Very Rare                 | [Legend Lore](https://dnd5e.wikidot.com/spell:legend-lore)               |
+| Legendary                 | [Find the Path](https://dnd5e.wikidot.com/spell:find-the-path)           |
+| OP but I've<br>got to try | [Foresight](https://dnd5e.wikidot.com/spell:foresight)                   |

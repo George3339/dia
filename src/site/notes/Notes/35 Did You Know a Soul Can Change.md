@@ -53,7 +53,7 @@
 - Scrying on the windowsill of the prison Kyma's father
 	- I am in a hall that has 4 doors leading off of it to the right. aT THE end of the hallway I can see the interior is gone. It falls off at the end of the hallway and i SEE INTO Avernus. I hear fire ans see smoke. On the left it turns to more interior. At the end of the hallway the ground is destroyed. 
 - sCRYING TO Locate the building he is in
-	- I see a wreaked flying fortress crahsed intot he ground of Avernus. It is half destroyed and opend up to the air. Weird slug looking creatures wander it's destryed bridge and a few ther mishapen creatures pitter around the area. In the distance I see the [[Places/Avernus/River Styx\|River Styx]], far in the distance. 
+	- I see a wreaked flying fortress crahsed intot he ground of Avernus. It is half destroyed and opend up to the air. Weird slug looking creatures wander it's destryed bridge and a few ther mishapen creatures pitter around the area. I see the [[Places/Avernus/River Styx\|River Styx]], far in the distance. 
 
 A totrle aproches us, he holds an intricate black staff and black armour. "Who dares stand in the pressence of Archon's tower" 
 

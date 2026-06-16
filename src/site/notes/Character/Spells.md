@@ -216,7 +216,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 # Level 4
 
-## Raulothim's Psychic Lance !!!!GARUTH FIGHT
+## Raulothim's Psychic Lance 
 Source: Fizban's Treasury of Dragons
 
 _4th-level Enchantment_
