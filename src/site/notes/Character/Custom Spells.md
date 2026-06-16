@@ -188,10 +188,10 @@ This smoking pipe is made of infernal iron and is imbued with a soul. The soul i
 Any flammable or smokable material ignites immediately when placed in the bowl of this pipe. 
 
 **Moral Cost**
-The smoke from this pipe, no matter what is burned in it, tastes and smells like brimstone and salt tears. The taste burns your throat and lingers for 1 day. Any non evil creature that smokes out of this pipe must make a DC 16?? Wisdom Saving Throw. On a failure the creature must change its alignment to evil, this effect ceases an hour after the creature last smoked from the pipe.
+The smoke from this pipe, no matter what is burned in it, tastes and smells like brimstone and salt tears. The taste burns your throat and lingers for 1 day. Any non evil creature that smokes out of this pipe must make a DC 16 Wisdom Saving Throw. On a failure the creature takes 4d4 psychic damage and must change its alignment to evil, this effect ceases an hour after the creature last smoked from the pipe.
 
 **Inhaled Knowledge**
-As the embers burn, the knowledge and wisdom of the soul trapped within seeps into the smoke imparting divinatory visions to those who smoke from it. Immediately after having smoked from the pipe a creature may cast one spell of their choice, depending on the rarity of the item. 
+As the embers burn, the knowledge and wisdom of the soul trapped within seeps into the smoke imparting divinatory visions to those who smoke from it. Immediately after having smoked from the pipe a creature may cast one spell of their choice, depending on the rarity of the item. A creature may choose any one spell from its rarity or below. This benefit may only be received once per day. Any non-evil creature that attempts to cast a spell must make a wisdom saving throw of a difficulty equal to 10 plus the level of the spell being cast. On a failure the creature's alignment is changed to evil.
 
 | Rarity                    | Spell                                                                    |
 | ------------------------- | ------------------------------------------------------------------------ |
