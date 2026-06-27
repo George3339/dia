@@ -56,6 +56,15 @@ We are crossing the [[Places/Avernus/River Styx\|River Styx]] to retrieve a vial
 [[Notes/34 One Selfless Act Sparks Another...\|34 One Selfless Act Sparks Another...]]
 [[Notes/35 Did You Know a Soul Can Change\|35 Did You Know a Soul Can Change]]
 [[Notes/36 Trust Must be Tested\|36 Trust Must be Tested]]
+[[Notes/37 Assume Your Enemy Knows the Best Move\|37 Assume Your Enemy Knows the Best Move]]
+[[Notes/38 the Fool, The Strategist, and the Vengeful Coward\|38 the Fool, The Strategist, and the Vengeful Coward]]
+[[Notes/39 The Only Way to Understand Pure Evil...\|39 The Only Way to Understand Pure Evil...]]
+[[Notes/40 On Your Marks\|40 On Your Marks]]
+[[Notes/41 Through Pain We Learn\|41 Through Pain We Learn]]
+[[Notes/42 Shut up and Dance\|42 Shut up and Dance]]
+[[Notes/43 This Isn't House Money\|43 This Isn't House Money]]
+[[Notes/44 Gods Deceive All\|44 Gods Deceive All]]
+
 
 
 # Inventory

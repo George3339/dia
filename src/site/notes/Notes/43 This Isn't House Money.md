@@ -36,7 +36,7 @@ Someone breaches the stone and starts the car
 	- We aproach it
 		- It's like light and colour but the form is like nothing you've ever seen
 		- The rest of us see a sword stuck in the ground
-		- under the sword i SEE A DODECAHEDRON SHSPED ROCK WITH a faint magical lining to it
+		- under the sword I see a dodecahedron shaped rock with a faint magical lining to it
 
 
 # Notes for next session
