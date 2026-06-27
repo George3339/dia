@@ -22,7 +22,7 @@
 
 # Tower of Urm
 - I see some movement, slithering, on the island. Some mezoloths hide in the tents and behind some rocks.
-- "And then you bring this vessel, this sponge here! I'll TKAE YOUR LIGHT. I would have preferred your friend, his energy is so much more potent. I made a mistake last time, the spell wasn't ready, so I decided to change"
+- "And then you bring this vessel, this sponge here! I'll take your light. I would have preferred your friend, his energy is so much more potent. I made a mistake last time, the spell wasn't ready, so I decided to change"
 - Kyma kills the wizard
 - "What a stupid wizard. Didn't even have a backup magic circle"
 - Looting the wizard
