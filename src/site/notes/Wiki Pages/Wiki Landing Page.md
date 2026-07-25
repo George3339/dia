@@ -4,7 +4,7 @@
 
 [[Notes/🧵 Threads\|🧵 Threads]]
 # For Simon
-[[1 Shot/Simon One Shot/Untitled Power Warlock\|Untitled Power Warlock]][[1 Shot/Simon One Shot/One Shot Spells\|One Shot Spells]]
+[[1 Shot/Simon One Shot/Untitled Power Warlock\|Untitled Power Warlock]]  [[1 Shot/Simon One Shot/One Shot Spells\|One Shot Spells]]
 # Current Quest
 
  
