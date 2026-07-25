@@ -193,5 +193,40 @@ Once on each of your turns when you hit a creature with your _[eldritch blast](
 ### One More I Haven't Decided 
 
 
+# Magic Items
 
+## Rod of the Pact Keeper, +2
 
+Source: Dungeon Master's Guide
+
+_Rod, uncommon (+1), rare (+2), or very rare (+3) (requires attunement by a warlock)_
+
+While holding this rod, you gain a bonus to spell attack rolls and to the saving throw DCs of your warlock spells. This bonus is determined by the rod's rarity.
+
+In addition, you can regain one warlock spell slot as an action while holding the rod. You can't use this property again until you finish a long rest.
+
+## Illusionist's Bracers
+
+Source: Guildmaster's Guide to Ravnica
+
+_Wondrous item, very rare (requires attunement by a spellcaster)_
+
+A powerful illusionist of House Dimir originally developed these bracers. which enabled her to create multiple minor illusions at once. The bracers' power, though, extends far beyond illusions.
+
+While wearing the bracers. whenever you cast a cantrip, you can use a bonus action on the same turn to cast that cantrip a second time.
+
+## Staff of the Woodlands
+
+Source: Dungeon Master's Guide
+
+_Staff, rare (requires attunement by a druid)_
+
+This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.
+
+The staff has 10 charges for the following properties. It regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff loses its properties and becomes a nonmagical quarterstaff.
+
+**Spells.** You can use an action to expend 1 or more of the staff's charges to cast one of the following spells from it, using your spell save DC: [Animal Friendship](http://dnd5e.wikidot.com/spell:animal-friendship) (1 charge), [Awaken](http://dnd5e.wikidot.com/spell:awaken) (5 charges), [Barkskin](http://dnd5e.wikidot.com/spell:barkskin) (2 charges), [Locate Animals or Plants](http://dnd5e.wikidot.com/spell:locate-animals-or-plants) (2 charges), [Speak with Animals](http://dnd5e.wikidot.com/spell:speak-with-animals) (1 charge), [Speak with Plants](http://dnd5e.wikidot.com/spell:speak-with-plants) (3 charges), or [Wall of Thorns](http://dnd5e.wikidot.com/spell:wall-of-thorns) (6 charges).
+
+You can also use an action to cast the [Pass Without Trace](http://dnd5e.wikidot.com/spell:pass-without-trace) spell from the staff without using any charges.
+
+**Tree Form.** You can use an action to plant one end of the staff in fertile earth and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by detect magic. While touching the tree and using another action to speak its command, word, you return the staff to its normal form. Any creature in the tree falls when it reverts to a staff.
