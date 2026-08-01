@@ -6,7 +6,7 @@
 
 
 
-*We stand in front of the [[Cibriax\|Cibriax]] still trying to extract the location of Bell's adamantine rods.*
+*We stand in front of the [[People and Orgs/Cibriax\|Cibriax]] still trying to extract the location of Bell's adamantine rods.*
 
  ---
 
@@ -17,7 +17,7 @@
 		- I see a flash of an image of a flying fortress wrecked, it looks like where [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]]'s dad was. 
 
 # On the Road
-- Conversation between [[People and Orgs/PCs/Lane Wayne\|Lane]] and [[Chum Bucket\|Chum Bucket]]
+- Conversation between [[People and Orgs/PCs/Lane Wayne\|Lane]] and [[People and Orgs/Chum Bucket\|Chum Bucket]]
 - he worked for a pit feind who used to be neamed L'zth and but is now known as named bitterbreath
 	- Chum bucket sold his soul (to bitterbreath in a way)
 	- It was sold to a diferent and it's his till he dies
@@ -34,5 +34,5 @@
 		- he does so on 
 - [[People and Orgs/PCs/Lane Wayne\|Lane]] talks to [[People and Orgs/People/Lulu\|Lulu]], she has the idea of giving the [[Magic Items not owned/Sword of Zariel\|Sword of Zariel]] to [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]] to remind her of who she was. 
 	- Lulu thinks about people who could help bring back the archangel Zareil
-		- She remembers a bunch of [[People and Orgs/Orgs/Hellriders\|Hellriders]] that fought alongside her. He was like one of the chiefs of the hellriders and was really close to zariel. If we found him he could help remind her who she was. His name was [[Olantheius\|Olantheius]] [[Olianthus].  [[Kyma Crimsonfate\|Kyma]] puts his image in a gem.
+		- She remembers a bunch of [[People and Orgs/Orgs/Hellriders\|Hellriders]] that fought alongside her. He was like one of the chiefs of the hellriders and was really close to zariel. If we found him he could help remind her who she was. His name was [[People and Orgs/Olantheius\|Olantheius]] [[Olianthus].  [[Kyma Crimsonfate\|Kyma]] puts his image in a gem.
 - When we wake up and the sending stone Donkus has is ringing 

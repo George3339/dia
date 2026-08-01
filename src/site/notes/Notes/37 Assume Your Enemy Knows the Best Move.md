@@ -26,7 +26,7 @@
 	- In the astral it's like a roalercauster of the cosmos
 	- In the distance is drakness and light in various forms
 	- My whole body feels heavy and tight, there's lights that flicker and a red mist pulses through the stars beneath 
-- We seem to have shaken [[Obitala\|Obitala]] 
+- We seem to have shaken [[People and Orgs/Obitala\|Obitala]] 
 - We see [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]]'s father flying overhead'
 	- I scry his cell, he is there 
 	- I fly up to him

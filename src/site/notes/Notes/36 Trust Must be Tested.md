@@ -40,7 +40,7 @@ Arkan is wearing obsidian plate armour, his left hand is green and emanating a m
 			- He laughs and attacks
 ## The Battle
 - [[People and Orgs/PCs/Lane Wayne\|Lane]] successfully lands a command: flee on [[People and Orgs/Arkan the Cruel\|Arkan the Cruel]] 
-- [[People and Orgs/PCs/Eamonn\|Eamonn]] casts wall of stone after the [[Inventory/Magical Items/Orb of Dragonkind\|Orb of Dragonkind]] is dropped, rescuing the orb 
+- [[People and Orgs/PCs/Eamonn\|Eamonn]] casts wall of stone after the [[Inventory/Magical Items/Attuned/Orb of Dragonkind\|Orb of Dragonkind]] is dropped, rescuing the orb 
 - During the battle Lulu unexpectedly casts heal on [[People and Orgs/PCs/Bras\|Bras]] 
 	- Archon calls out "[[People and Orgs/People/Asojano\|Asojano]] come to me"
 	- We leave and as we do we see archon cast a spell on the dead minautor

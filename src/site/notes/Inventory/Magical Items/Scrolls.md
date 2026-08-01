@@ -15,4 +15,10 @@
 - Scroll of Mirror Image
 - Scroll of Awaken
 - Scroll of Lightning Bolt
+- Shield
+- Major Image
+- Counterspell
+- Greater Invisibility 
+- Wall of force 
+- Disintigrate
 

@@ -25,7 +25,7 @@
 					- There might be folks downstairs 
 					- The basement is for cult business
 					- You can get in through the stable which is in the courtyard
-	- Was [[Places/Eltaurel/Elturel\|Elturel]] your family's doing
+	- Was [[Places/Avernus/Eltaurel/Elturel\|Elturel]] your family's doing
 		- It was the grand duke [[People and Orgs/People/Creig\|Creig]] and his mother 
 			- Creig serves the same master as his mother ([[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]) and they are responsible for the fall of Eltaurel
 	- Cult sources of income

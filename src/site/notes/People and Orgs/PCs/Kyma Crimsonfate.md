@@ -18,7 +18,7 @@ A water genasi wizard from [[Places/Candlekeep\|Candlekeep]]. Came to [[Places/B
 ### Sending
 - [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] Sends and receives a message from his father 	- Kyma: Father, I've arrived to Candlekeep, may have a lead for Elturel concerning Overseer Kreeg and a devils contract, hope you are alive and well. 
 	  Father: Still figuring out, city bound by more than contract, chains, companion, something else, bring allies, meet you here, come through [[People and Orgs/People/Traxagor\|Traxagor]]
-	- It mentions to bring [[People and Orgs/People/The Companion\|The Companion]] who is a celestial Planar ally who got rid of the vampires from the city of [[Places/Eltaurel/Elturel\|Elturel]]. 
+	- It mentions to bring [[People and Orgs/People/The Companion\|The Companion]] who is a celestial Planar ally who got rid of the vampires from the city of [[Places/Avernus/Eltaurel/Elturel\|Elturel]]. 
 
 </div></div>
 

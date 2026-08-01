@@ -40,7 +40,7 @@
 
 # Resting Under the Rock
 - We talk about family and relationships
-- Bras has heard of the [[House of Hope\|House of Hope]], it might have brothels in it.
+- Bras has heard of the [[Places/Avernus/House of Hope\|House of Hope]], it might have brothels in it.
 	- It's somewhere in avernus and it's run by a powerful devil
 - As we lay to sleep, [[People and Orgs/PCs/Lane Wayne\|Lane]] creates an image of the stars over our head
 - Casting Commune #commune

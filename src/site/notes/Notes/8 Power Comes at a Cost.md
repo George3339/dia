@@ -8,7 +8,7 @@
 - There is a split in the road and merging towards us is a troupe of dwarves
 	- There are about 5-6 of them. [[People and Orgs/PCs/Eamonn\|Eamonn]] approachs and one of them and they introduce themselves as [[People and Orgs/People/Leatherfeet\|Leatherfeet]] (after his leathery beard). 
 	- They are headed to a settlement named [[Places/Avernus/Furscull\|Furscull]] to meet with clients and then they are going to a family settlement
-	- His cousin [[People and Orgs/People/Dwayne\|Dwayne]] was in [[Places/Eltaurel/Elturel\|Elturel]] when it fell
+	- His cousin [[People and Orgs/People/Dwayne\|Dwayne]] was in [[Places/Avernus/Eltaurel/Elturel\|Elturel]] when it fell
 - [[People and Orgs/PCs/Bras\|Bras]] sees a dragon in the sky and we scatter towards the tree-line #Dragon 
 	- It is a white dragon with a broken metal shackle around it's neck 
 		- [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] has heard of legends of ppl who have subjugated dragons
@@ -37,14 +37,14 @@
 
 	- Kyma: Father, I've arrived to Candlekeep, may have a lead for Elturel concerning Overseer Kreeg and a devils contract, hope you are alive and well. 
 	  Father: Still figuring out, city bound by more than contract, chains, companion, something else, bring allies, meet you here, come through [[People and Orgs/People/Traxagor\|Traxagor]]
-	- It mentions to bring [[People and Orgs/People/The Companion\|The Companion]] who is a celestial Planar ally who got rid of the vampires from the city of [[Places/Eltaurel/Elturel\|Elturel]]. 
+	- It mentions to bring [[People and Orgs/People/The Companion\|The Companion]] who is a celestial Planar ally who got rid of the vampires from the city of [[Places/Avernus/Eltaurel/Elturel\|Elturel]]. 
 ### [[People and Orgs/People/Silveira Savicast\|Silveira Savicast]] 
 - She comments on [[People and Orgs/PCs/Donkus Ironbrew\|Donkus]]' [[Magic Items not owned/Shield of Garguth\|Shield of Garguth]] and that there is a devil in there.
 	- He is locked away to not corrupt more souls.
 - We hand her the [[Magic Items not owned/puzzle box 1\|puzzle box 1]] and she loredumps
 	- [[The Creed Absolute\|The Creed Absolute]] 
 		- A way to potentially bind the city to his deal. 
-		- All the souls of [[Places/Eltaurel/Elturel\|Elturel]] are bound to Zariel
+		- All the souls of [[Places/Avernus/Eltaurel/Elturel\|Elturel]] are bound to Zariel
 - She opens the box and from it a contract 
 	- Be it known to all that i have sworn to my master [[People and Orgs/Deities and Beings of Power/Zariel\|Zariel]]. I hear-by summit to Zariel. The companion, all lands falling under the shine of the Companion. This deal will last for 50 years.
 

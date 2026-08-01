@@ -18,7 +18,7 @@ On the third floor we see [[People and Orgs/People/Sunspark\|Sunspark]], he look
 			- Who did you kill to get it?
 				- Well it's not any concern anymore. Only soldiers can be reborn.
 					- Who did you kill to get it? Indimidation 19
-						- He was a nobody, just some dwarf that crawled down from [[Places/Eltaurel/Elturel\|Elturel]]. He was already gead, there was a swarm of imps about to kill him.
+						- He was a nobody, just some dwarf that crawled down from [[Places/Avernus/Eltaurel/Elturel\|Elturel]]. He was already gead, there was a swarm of imps about to kill him.
 							- 19 Insight: It feels truthfull
 					- "Who do you serve"
 						- As he tries to speak he breathes blue flame. "I serve Zariel"

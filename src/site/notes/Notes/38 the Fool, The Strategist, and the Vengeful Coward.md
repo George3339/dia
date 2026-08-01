@@ -37,12 +37,12 @@
 - Obitalla is going the wrong way and there is a green dragon going in our general direction 
 
 ## We cross the [[Places/Avernus/River Styx\|River Styx]]
-As we cross [[People and Orgs/PCs/Eamonn\|Eamonn]] sees another dragon smaller than [[Obitala\|Obitala]]. I can't determine it's colour but it is another dragon
+As we cross [[People and Orgs/PCs/Eamonn\|Eamonn]] sees another dragon smaller than [[People and Orgs/Obitala\|Obitala]]. I can't determine it's colour but it is another dragon
 - [[People and Orgs/PCs/Lane Wayne\|Lane]] sees that the two other dragons are black and blue
-- We see the [[Forge of Bell\|Forge of Bell]] in the distance
+- We see the [[Places/Avernus/Forge of Bell\|Forge of Bell]] in the distance
 
 
-# The [[Forge of Bell\|Forge of Bell]]
+# The [[Places/Avernus/Forge of Bell\|Forge of Bell]]
 A gargantuan volocano dominate the horison. A vast muli layered palace has been hewn into the side of the mountain. At the base of the gate there are a bunch of horned devils. 
 - Bras hands over the letter and they usher us in
 - The evil calls Bell the master of Avernus

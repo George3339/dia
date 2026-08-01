@@ -3,7 +3,7 @@
 ---
 
 
-# Inside [[Places/Eltaurel/High Hall\|High Hall]]
+# Inside [[Places/Avernus/Eltaurel/High Hall\|High Hall]]
 - [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] notices the stranger we picked up reeks of illusion 
 	- We confront him and he dips 
 - A creature with white pale skin and red eyes pops up
@@ -16,7 +16,7 @@
 	- "Are they almost done upstairs? yes.""The rest of them are gathered downstairs. That's not our problem."
 	- One of them puts a paper on the wall
 		- ![Pasted image 20241026202336.png|300](/img/user/z%20Photos/Pasted%20image%2020241026202336.png)
-	- "The [[Places/Eltaurel/Elturel\|Elturel]]ians are in the basement of high hall but we can't touch them"
+	- "The [[Places/Avernus/Eltaurel/Elturel\|Elturel]]ians are in the basement of high hall but we can't touch them"
 	- The companion is Zariel's hold on the city. Her fiendish friend, her key.
 	- We pop out of the stone and kill the cultists
 - [[People and Orgs/PCs/Lane Wayne\|Lane Wayne]] pulls the lever on the altar and the closed gauntlet opens up 
@@ -43,7 +43,7 @@
 		- They've been gone half a day
 		- He was trying to find the [[Magic Items not owned/Helm of Torm\|Helm of Torm]]
 	- They met [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]]'s father
-		- He was focusing on a way to break the chains of [[Places/Eltaurel/Elturel\|Elturel]]
+		- He was focusing on a way to break the chains of [[Places/Avernus/Eltaurel/Elturel\|Elturel]]
 - From outside we hear a loud guttural scream and clap of thunder
 - The wells in the crypt are full of holy water
 - 

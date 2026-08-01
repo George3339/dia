@@ -13,7 +13,7 @@
 
 # Inside the ring
 
-We hear [[Chum Bucket\|Chum Bucket]] outside the ring
+We hear [[People and Orgs/Chum Bucket\|Chum Bucket]] outside the ring
 "Soon, soon, don't worry my sweet. These are strong warriors my sweet. We do well to be with them. Dom't worry, all will be free and we'll find a better hell soon enough."
 
 We hear a wailing wind
@@ -29,7 +29,7 @@ Someone breaches the stone and starts the car
 - fight
 	- She tried to cast meteor swarm but [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] Counterspells it
 
-[[Obitala\|Obitala]] chases us
+[[People and Orgs/Obitala\|Obitala]] chases us
 - We run from him and hide in the storm
 
 - Kyma sees a spire of glowing magic, like [[People and Orgs/PCs/Bras\|Bras]]' aura

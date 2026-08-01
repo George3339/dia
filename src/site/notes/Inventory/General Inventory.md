@@ -8,7 +8,7 @@
 - PP: 
 - GP: 
 - EP: 
-- SP: 
+- SP: 244
 - CP: 32
 - Soul coins: 5
 # Weapons and Armour
@@ -18,7 +18,7 @@
 - Leather Armour 
 - [[Inventory/Magical Items/Attuned/Belt of Dwarvenkind\|Belt of Dwarvenkind]]
 - +1 Arcane Focus
-- [[Inventory/Magical Items/Attuned/Wand of Lightning Bolts\|Wand of Lightning Bolts]]
+- [[Inventory/Magical Items/Attuned/Robe of stars\|Robe of stars]]
 # Dungeoneer's Pack
 - Crowbar
 - Hammer
@@ -30,7 +30,7 @@
 # Valuables
 - Vial of poison (poison shot)
 - A vial of water from the [[Places/Avernus/River Styx\|River Styx]]
-- Orb of Dragonkind
+- [[Inventory/Magical Items/Attuned/Orb of Dragonkind\|Orb of Dragonkind]]
 - 2 Vials of acid
 - A small ring (Ring of protection) (Curse: While attuned you forget common)
 - Helm of Torm

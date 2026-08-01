@@ -33,7 +33,7 @@
 - Ask about [[People and Orgs/People/Lulu\|Lulu]]'s memories
 	- She came by here before, her memories were scattred, closer to the incident, like her psyche was being destroyed.
 	- There's something I could do. I'm particularly proficient in dealing with a certain type of magic. And well dreams are a pathway to many memories. If you would so be inclined I could take us into Lulu's dreams. But you have to tell me why you're here and you have to spend the night
-	- I tell her we are trying to save [[Places/Eltaurel/Elturel\|Elturel]].
+	- I tell her we are trying to save [[Places/Avernus/Eltaurel/Elturel\|Elturel]].
 		- She seems amused, but she knows we are here for so much more
 - Why are we here
 	- "I can't understand the minds of beings much large than myself, but I've gotten a sense for a while now, well, I have seen omens. Omens of the future, omens of what is to come. The end, the end of this place, the end of the blood war, the end of my home. I've accepted that, but well, I'm not sure how it will all go down." As she speaks we see the sky begin to change, forming the symbol of [[People and Orgs/Deities and Beings of Power/Bhaal\|Bhaal]], and then banging, as if he is banging on the plane himself. Two sentences in deep speech are spoken from the sky. 

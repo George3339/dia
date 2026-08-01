@@ -2,6 +2,26 @@
 {"dg-publish":true,"permalink":"/1-shot/simon-one-shot/untitled-power-warlock/"}
 ---
 
+# Species
+## Shifter Traits
+
+**Creature Type:** Humanoid
+
+**Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
+
+**Speed:** 30 feet
+
+As a Shifter, you have these special traits.
+
+**Bestial Instincts.** Channeling the beast within, you gain proficiency in one of the following skills of your choice: Acrobatics, Athletics, Intimidation, or Survival.
+
+**Darkvision.** You have Darkvision with a range of 60 feet.
+
+**Shifting.** As a Bonus Action, you can shape-shift to assume a more bestial appearance. This transformation lasts for 1 minute or until you revert to your normal appearance as a Bonus Action. When you shift, you gain Temporary Hit Points equal to 2 times your Proficiency Bonus. You can shift a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+
+Whenever you shift, you gain the benefit:
+
+**Beasthide.** You gain 1d6 additional Temporary Hit Points. While shifted, you have a +1 bonus to your Armor Class.
 
 # Ability Scores
 
@@ -156,7 +176,7 @@ Source: Player's Handbook
 
 When you cast _[eldritch blast](https://dnd5e.wikidot.com/spell:eldritch-blast)_, add your Charisma modifier to the damage it deals on a hit.
 
-####  Green Lord's Gift
+#### Green Lord's Gift
 
 Source: Unearthed Arcana 29 - Warlock & Wizard  
 **_Prerequisite: [The Archfey](https://dnd5e.wikidot.com/warlock:archfey) patron_**
@@ -190,7 +210,11 @@ Source: Xanathar's Guide to Everything
 
 Once on each of your turns when you hit a creature with your _[eldritch blast](https://dnd5e.wikidot.com/spell:eldritch-blast)_, you can reduce that creature's speed by 10 feet until the end of your next turn.
 
-### One More I Haven't Decided 
+### Misty Visions
+
+Source: Player's Handbook
+
+You can cast _[silent image](https://dnd5e.wikidot.com/spell:silent-image)_ at will, without expending a spell slot or material components. 
 
 
 # Magic Items

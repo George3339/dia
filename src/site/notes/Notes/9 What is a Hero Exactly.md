@@ -48,12 +48,12 @@
 	- You'll probably want to go to the big building, the high hall, if Ravenguard is still there find him
 	- He casts Plane Shift 
 ### A Shift and A Jump
-We immediately feel the heat of the air in [[Places/Avernus/Avernus\|Avernus]] as we appear 100 feet above [[Places/Eltaurel/Elturel\|Elturel]]. [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] casts feather fall and slows our fall and we float down to the streets of Eltaurel.
+We immediately feel the heat of the air in [[Places/Avernus/Avernus\|Avernus]] as we appear 100 feet above [[Places/Avernus/Eltaurel/Elturel\|Elturel]]. [[People and Orgs/PCs/Kyma Crimsonfate\|Kyma]] casts feather fall and slows our fall and we float down to the streets of Eltaurel.
 - We look around and see swarms of imps flying around massive flying war machines. The city below us has 8 massive pitons jammed into each end of the city that is bound by chains bound to the surface of Avernus. The city is split in two. A mote of lava encircles the east side of the city.
 - A sphere of darkness shoots the city, perched atop a bluff a ruined fortress stands. 
 - We land in the streets and see group of citizens, a mother and 2 boys come out of a half collapsed house. They are starving and looking for food. 3 Bearded devils start to approach them
 	- Bras's tentacle summon is now a proper black tentacle 
-- The family's mother's name is [[People and Orgs/People/Harkna\|Harkna]]. They need to get to [[Places/Eltaurel/High Hall\|High Hall]], I offer to bring them there. 
+- The family's mother's name is [[People and Orgs/People/Harkna\|Harkna]]. They need to get to [[Places/Avernus/Eltaurel/High Hall\|High Hall]], I offer to bring them there. 
 - We hear a man caught under a burning building and go in to try and save him
 	- After we save him we are assaulted by 2 Bulazau. 
 	- One of the Bulazau kills one of the sons of the family we saved

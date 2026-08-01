@@ -65,7 +65,7 @@ Upon casting the spell, the caster can choose to sacrifice a number of max HP eq
 **Components:** V, S, M (A pinch of powdered gems)
 **Duration:** Concentration, up to 1 minute 
 
-You conjure a dust storm of composed of millions of tiny crystalline shards. A 20-foot-radius 30 foot tall cylinder of swirling shining dust appears, centred on a point within range and lasting for the duration. The inside of the storm is heavily obscured. When a creature enters the spell’s area for the first time on a turn or starts its turn there they must make a dexterity saving throw. On a he creature takes 6d4 slashing damage on a failed save or half as much on a successful save. 
+You conjure a dust storm of composed of millions of tiny crystalline shards. A 20-foot-radius 30 foot tall cylinder of swirling shining dust appears, centred on a point within range and lasting for the duration. The inside of the storm is heavily obscured. When a creature enters the spell’s area for the first time on a turn or starts its turn there they must make a dexterity saving throw. The creature takes 6d4 slashing damage on a failed save or half as much on a successful save. 
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the dealt increases by 2d4.
 
@@ -104,7 +104,7 @@ Every failed saving throw increases the DC of any subsequent saving throws cause
 
 With this spell, the caster creates a suit of armour around themselves composed of earth and stone. The armour of earth grants the caster an AC of 18, equal to plate armour. This armour is surprisingly light, weighing only 20 lbs., although its lack of flexibility reduces the wearer’s Dexterity score by 2 points and reduces their speed by 10 feet. All movement in the armour of earth is accompanied by a soft, gritty, grinding sound and it constantly sheds a small amount of dirt and sand which makes all stealth checks by the caster fail while the spell is active. However, every successful melee strike against the caster releases a spray of this same grit back at an attacker. Any creature within 5 ft of the caster who hits them with a melee attack must make a Constitution saving throw against the caster’s spell save DC. Failure indicates the grit has gotten into the attacker’s eyes and the creature is blinded until the end of it’s next turn. 
 
-The caster can end this spell at any time using their reaction, and upon its end, either in this manner or when the spell expires, the armour of earth bursts into a brief cloud of sand and dirt in a 5-foot radius sphere around the caster; all those caught in the area other than the caster must make a Constitution saving throw versus the caster’s spell save DC to avoid being blinded until the end of their next turn. Creatures that do not rely on eyes for sight are immune to the blinding effect of this spell.
+The caster can end this spell at any time using their reaction, and upon its end, either in this manner, when the caster looses concentration, or when the spell expires, the armour of earth bursts into a brief cloud of sand and dirt in a 5-foot radius sphere around the caster; all those caught in the area other than the caster must make a Constitution saving throw versus the caster’s spell save DC to avoid being blinded until the end of their next turn. Creatures that do not rely on eyes for sight are immune to the blinding effect of this spell.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the caster gains +1 to concentration checks to maintain the spell per level above 4th.
 
@@ -121,11 +121,9 @@ A wall of sharp shimmering crystal erupts from the ground. The wall is 6 inches 
 
 If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
 
-The wall can have any shape you desire, though it can’t occupy the same space as a creature or object. The wall doesn’t need to be vertical or resting on any firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this spell to bridge a chasm or create a ramp.
-
 The wall is an object made of sharp but brittle crystal that can be damaged and thus breached. Each panel has AC 13 and 10 hit points per inch of thickness. Reducing a panel to 0 hit points destroys it and might cause connected panels to collapse at the DM’s discretion.
 
-On one side of the wall, selected by you when you cast this spell, the ground erupts into small knifelike crystal shards. The area 15 feet from this side of the wall is considered difficult terrain. Each creature that ends its turn within 15 feet of that side of the wall must make a dexterity saving throw, on a failed save the creature takes 8d4,  or half as much damage on a successful save as a shifting sea of sharp crystals cuts at their feet and legs. A creature makes the same saving throw when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage. 
+On one side of the wall, selected by you when you cast this spell, the ground erupts into small knifelike crystal shards. The area 15 feet from this side of the wall is considered difficult terrain. Each creature that ends its turn within 15 feet of that side of the wall must make a dexterity saving throw, on a failed save the creature takes 8d4,  or half as much damage on a successful save as a shifting sea of sharp crystals cuts at their feet and legs. A creature makes the same saving throw when it enters the wall for the first time on a turn and when it ends its turn there. The other side of the wall deals no damage. 
 
 The crystals shatter and turn to worthless dust when the spell ends.
 

@@ -24,7 +24,7 @@
 ### Shield Room
 - Man in front of a sheild with a weird shadow
 	- He says his name is [[People and Orgs/People/Thadius Creig\|Thadius Creig]]
-		- He was the overseer of [[Places/Eltaurel/Elturel\|Elturel]] 
+		- He was the overseer of [[Places/Avernus/Eltaurel/Elturel\|Elturel]] 
 	- I can't tell if he's telling lies or the truth but what he's saying does not add up.
 	- We kill him
 		- He has a demon dick

@@ -38,7 +38,7 @@ I bought the Robe of stars
 She reaches for something behind her table and fidget with it as we call her on the stone
 
 ## Danse
-"I've sort of come to the realization that everyone here may as of now be the only hope for the city. And so the stakes for our current quest are more real than ever. Given that It might be worth getting to know eachother. There was something else but. I'll start, I was there when [[Places/Eltaurel/Elturel\|Elturel]] fell. i tracked down a cult into a basement and the ground began to shake. Fire and light shne through the cracks in the earth. I lost many friends that day, but made one ones! But before I get to my business tell me about yourselves."
+"I've sort of come to the realization that everyone here may as of now be the only hope for the city. And so the stakes for our current quest are more real than ever. Given that It might be worth getting to know eachother. There was something else but. I'll start, I was there when [[Places/Avernus/Eltaurel/Elturel\|Elturel]] fell. i tracked down a cult into a basement and the ground began to shake. Fire and light shne through the cracks in the earth. I lost many friends that day, but made one ones! But before I get to my business tell me about yourselves."
 - Kyma: I learnt recently that my father was captured in [[Places/Avernus/Avernus\|Avernus]]
 "I need your help. I have a powerful item that I need de cursed. i'm not certain how it works, but there is definitely some sort of tool he's using, but he's never able to de curse them within sight of any other creature. Should the heist of finding out and taking advantage of it is not possible I will ask to borrow soul coins. "
 

@@ -18,7 +18,7 @@ An angel, a devil, a being of divine strength above the battlefield
 # Arriving in Baldur’s Gate
 [[People and Orgs/People/Capitan Zoge\|Capitan Zoge]] a tall man with an eyepatch
 
-- Ppl are scared that [[Places/Baldur's Gate/Baldur's Gate\|Baldur's Gate]] will fall like [[Places/Eltaurel/Elturel\|Elturel]]
+- Ppl are scared that [[Places/Baldur's Gate/Baldur's Gate\|Baldur's Gate]] will fall like [[Places/Avernus/Eltaurel/Elturel\|Elturel]]
     
 - We are to help with finding followers of the [[People and Orgs/Orgs/Cult of the Dead Three\|Cult of the Dead Three]]
     
