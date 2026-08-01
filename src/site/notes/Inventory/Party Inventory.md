@@ -104,8 +104,9 @@ Gems:
 
 ### Attuned Items
 1. Circlet of Mind Shielding
-2. Has Reiner’s soul inside of it.
-3.   
+	- Has Reiner’s soul inside of it.
+2.  
+3. 
 
 #### Owned Items
 - +1 Rapier
