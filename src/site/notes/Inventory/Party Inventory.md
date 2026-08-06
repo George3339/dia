@@ -7,17 +7,18 @@
 
 | Currency   | Communal | Kyma | Bras | Eamonn | Lane | Donkus |
 | ---------- | -------- | ---- | ---- | ------ | ---- | ------ |
-| Copper     |          |      |      |        |      |        |
-| Silver     | 3        |      |      |        |      |        |
+| Copper     |          |      |      | 32     |      |        |
+| Silver     | 3        |      |      | 244    |      |        |
 | Electrum   |          |      |      |        |      |        |
 | Gold       |          |      |      |        |      |        |
 | Platinum   |          |      |      |        |      |        |
 | Soul Coins |          | 2    |      | 5      | 1    | 2      |
+
 Gems:
 - 2 Sapphires worth 300 GP
 - 2 diamonds worth 1000 GP
 
-# Items of Import
+# Magic Items
 
 ## Kyma
 
@@ -127,6 +128,8 @@ Gems:
 - Hellfire Greatsword
 - Hellfire Javelin
 - Karlach’s +2 Greataxe of Recall
+
+# Scrolls
 
 
 # Things to sell/split

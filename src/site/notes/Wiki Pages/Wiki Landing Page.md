@@ -3,8 +3,6 @@
 ---
 
 [[Notes/🧵 Threads\|🧵 Threads]]
-# For Simon
-[[1 Shot/Simon One Shot/Untitled Power Warlock\|Untitled Power Warlock]]  [[1 Shot/Simon One Shot/One Shot Spells\|One Shot Spells]]
 # Current Quest
 
  
@@ -50,9 +48,9 @@ We are crossing the [[Places/Avernus/River Styx\|River Styx]] to retrieve a vial
 [[Notes/25 To Be Good In Hell Is To Be Insane\|25 To Be Good In Hell Is To Be Insane]]
 [[Notes/26 The Easiest Lie is When You're Expecting it\|26 The Easiest Lie is When You're Expecting it]]
 [[Notes/27 There's Dumb Evil Then There's Smart Evil\|27 There's Dumb Evil Then There's Smart Evil]]
-[[28 Do You Have The Faintest Idea Where You're Standing?\|28 Do You Have The Faintest Idea Where You're Standing?]]
+[[Notes/28 Do You Have The Faintest Idea Where You're Standing?\|28 Do You Have The Faintest Idea Where You're Standing?]]
 [[Notes/29 It Wouldn't Be A Game If You Knew The Ending\|29 It Wouldn't Be A Game If You Knew The Ending]]
-[[30 Did You Know All Warfare is Deception?\|30 Did You Know All Warfare is Deception?]]
+[[Notes/30 Did You Know All Warfare is Deception?\|30 Did You Know All Warfare is Deception?]]
 [[Notes/31 You Know Armies Need Communication...\|31 You Know Armies Need Communication...]]
 [[Notes/32 THE NOBLE ACTIONS OF FEAR AND DOUBT...\|32 THE NOBLE ACTIONS OF FEAR AND DOUBT...]]
 [[Notes/33 EXTERMINATE EVERY LAST ONE!\|33 EXTERMINATE EVERY LAST ONE!]]
@@ -67,6 +65,7 @@ We are crossing the [[Places/Avernus/River Styx\|River Styx]] to retrieve a vial
 [[Notes/42 Shut up and Dance\|42 Shut up and Dance]]
 [[Notes/43 This Isn't House Money\|43 This Isn't House Money]]
 [[Notes/44 Gods Deceive All\|44 Gods Deceive All]]
+[[Notes/45 Half The Battle\|45 Half The Battle]]
 
 
 
